@@ -7,7 +7,7 @@
  */
 
  import React from "react";
- import { StyleSheet } from "react-native";
+ import { StyleSheet, View } from "react-native";
  import Tree from "./src/components/Base";
  import struct from "./src/struct";
  import CountryPicker from './src/components/CountryPicker';
@@ -22,9 +22,9 @@
     console.log(val);
    }
    return (
-     <>
-      <CountryPicker onSelected={onSelected} />
-     </>
+    //  <View style={{margin: 30, backgroundColor: 'red'}}>
+      <CountryPicker columeOfNum={3} onSelected={onSelected} />
+    //  </View>
    );
  }
  

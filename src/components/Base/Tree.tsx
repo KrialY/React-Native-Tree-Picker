@@ -40,16 +40,17 @@ const findPath = (struct: any, key: string): any => {
   }
 };
 
-interface Props {
+export interface Props {
   struct: Array<Object>;
   defaultSelected?: string;
   onSelected?: (path: Array<string>) => void;
+  columeOfNum?: number;
 }
 
-export default function Tree({ struct, defaultSelected = "name - 山东省", onSelected }: Props) {
+export default function Tree({ struct, defaultSelected = "name - 山东省", onSelected, columeOfNum }: Props) {
   const [selected, setSelected] = useState(defaultSelected);
   const { path, pathObj }: any = findPath(struct, selected);
-  console.log(path, "tree render once");
+  const [pWidth, setPWidth] = useState(0);
   
   useEffect(() => {
     onSelected && onSelected(pathObj);
@@ -68,8 +69,10 @@ export default function Tree({ struct, defaultSelected = "name - 山东省", onS
     return (
       <>
         <TreeNode
+          pWidth={pWidth}
           defaultSelected={path[dep]}
           key={dep}
+          lineItemNumber={columeOfNum}
           onSelected={(val) => {
             // 性能优化，减少render次数。选择父节点的时候，默认会渲染父元素下的第一个子元素，子元素初始化会调用onSelected事件
             // 从而反复调用setSelected。如果当前路径已经包括了需要选择的目标则停止渲染。
@@ -83,8 +86,13 @@ export default function Tree({ struct, defaultSelected = "name - 山东省", onS
       </>
     );
   };
+  
+  const _onLayout = (e: any) => {
+    const {width} = e.nativeEvent.layout;
+    setPWidth(width);
+  }
 
-  return <View style={styles.treeWrapper}>{traverse(struct, 0)}</View>;
+  return <View onLayout={_onLayout} style={styles.treeWrapper}>{traverse(struct, 0)}</View>;
 }
 
 

@@ -1,12 +1,12 @@
 import React from 'react';
 import Tree from '../Base/Tree';
-import {countryData} from '../../struct';
-
+import { countryData } from '../../struct';
 interface Props {
   onSelected?: (path: Array<Object>) => void;
+  columeOfNum?: number;
 }
-export default function CountryPicker ({ onSelected }: Props){
+export default function CountryPicker ({ onSelected, columeOfNum }: Props){
   return (
-    <Tree onSelected={onSelected} struct={countryData as any}  />
+    <Tree columeOfNum={columeOfNum} onSelected={onSelected} struct={countryData as any}  />
   )
 }

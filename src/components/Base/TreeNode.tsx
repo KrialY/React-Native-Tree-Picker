@@ -4,12 +4,13 @@ import {Picker} from '@react-native-picker/picker';
 const { width: SCREENWIDTH } = Dimensions.get('window');
 import { mixKeyByAug } from '../../utils';
 interface Props {
+  pWidth: number;
   struct: any;
   onSelected: (val: string) => void;
   defaultSelected: string;
-  lineItemNumber?: number
+  lineItemNumber?: number;
 }
-export default function TreeNode({ struct, onSelected, defaultSelected, lineItemNumber = 3 }: Props) {
+export default function TreeNode({ struct, onSelected, defaultSelected, lineItemNumber = 3, pWidth }: Props) {
   const [selectedValue, setSelectedValue] = useState(defaultSelected);
 
   const traverse = (struct: any) => {
@@ -17,7 +18,8 @@ export default function TreeNode({ struct, onSelected, defaultSelected, lineItem
       <View style={styles.pickerContainer}>
         <Picker
           selectedValue={selectedValue}
-          style={{ width: SCREENWIDTH / lineItemNumber}}
+          style={{ width: pWidth / lineItemNumber}}
+          numberOfLines={1}
           onValueChange={(itemValue, i) => {
             setSelectedValue(itemValue);
             onSelected(itemValue);
