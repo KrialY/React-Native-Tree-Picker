@@ -27,7 +27,13 @@ const struct = [
           },
           {
             key: "112",
-            name: "海淀区下的2"
+            name: "海淀区下的2",
+            children: [
+              {
+                key: "1121",
+                name: "海淀区下的海淀区下的"
+              }
+            ]
           }
         ]
       },
@@ -44,4 +50,6 @@ const struct = [
     ]
   }
 ];
+export const struct2 = [["list1", "list2", "list3"],["list5","list6"],["list8"]];
 export default struct;
+

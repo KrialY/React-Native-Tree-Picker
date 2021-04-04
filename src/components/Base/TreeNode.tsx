@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, Text, StyleSheet } from "react-native";
+import { View, StyleSheet } from "react-native";
 import {Picker} from '@react-native-picker/picker';
 
 interface Props {
@@ -22,8 +22,9 @@ export default function TreeNode({ struct, onSelected, defaultSelected }: Props)
           }}
         >
           {struct.map((item: any) => {
-            const key = item.key;
-            return <Picker.Item key={key} label={item.name} value={item.key} />;
+            const key = item.key || item;
+            const val = item.name || item;
+            return <Picker.Item key={key} label={val} value={key} />;
           })}
         </Picker>
       </View>

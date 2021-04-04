@@ -1,44 +1,55 @@
-import React, { useState, Fragment } from "react";
+import React, { useState, useEffect, Fragment } from "react";
 import { View, StyleSheet } from "react-native";
 import TreeNode from "./TreeNode";
 
-const findPath = (struct: any, key: string) => {
-  let res = null;
+const findPath = (struct: any, key: string): any => {
+  let resPath = null,
+    resObj = null;
 
-  dfs(struct, [], key, false);
-  function dfs(struct: any, path: Array<string>, key: string, isFind?: boolean) {
+  dfs(struct, [], [], key, false);
+  function dfs(struct: any, path: Array<string>, pathObj: Array<any>, key: string, isFind?: boolean) {
     if (isFind || !struct || struct.length <= 0) return;
 
     for (let i = 0; i < struct.length; i++) {
       let node = struct[i];
       path.push(node.key);
+      pathObj.push({key: node.key, val: node.name});
       if (node.key === key) {
         isFind = true;
         let nodes = node.children;
         while (nodes && nodes.length > 0) {
-          path.push(nodes[0].key);
-          nodes = nodes[0].children;
+          let firstNode = nodes[0];
+          path.push(firstNode.key);
+          pathObj.push({key: firstNode.key, val: firstNode.name});
+          nodes = firstNode.children;
         }
-        res = [...path];
+        resPath = [...path];
+        resObj = [...pathObj];
         return;
       }
-      dfs(node.children, path, key);
+      dfs(node.children, path, pathObj, key);
       path.pop();
+      pathObj.pop();
     }
   }
-  return res;
+  return {
+    path: resPath,
+    pathObj: resObj
+  }
 };
 
 interface Props {
   struct: any;
   defaultSelected: string;
-  onSelected: (val: string) => void;
+  onSelected: (path: Array<string>) => void;
 }
 export default function Tree({ struct, defaultSelected, onSelected }: Props) {
   const [selected, setSelected] = useState(defaultSelected);
-  const path: Array<string> = findPath(struct, selected) || [];
+  const { path, pathObj }: any = findPath(struct, selected) || [];
   
-  console.log("Tree Render");
+  useEffect(() => {
+    onSelected && onSelected(pathObj);
+  }, [selected]);
   const traverse = (struct: any, dep: number) => {
     if (!struct || struct.length <= 0) return;
     const res = struct.map((item: any) => {
@@ -61,11 +72,6 @@ export default function Tree({ struct, defaultSelected, onSelected }: Props) {
             if(!path.includes(val)) {
               setSelected(val);
             }
-            
-            console.log(val);
-            if(dep === path.length - 1) {
-              onSelected(val);
-            }
           }}
           struct={struct}
         />
@@ -77,11 +83,10 @@ export default function Tree({ struct, defaultSelected, onSelected }: Props) {
   return <View style={styles.treeWrapper}>{traverse(struct, 0)}</View>;
 }
 
+
+
 const styles = StyleSheet.create({
   treeWrapper: {
     flexDirection: "row"
-  },
-  pickerContainer: {
-    flex: 1
   }
 });

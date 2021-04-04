@@ -8,8 +8,8 @@
 
  import React, { useState } from "react";
  import { StyleSheet } from "react-native";
- import Tree from "./src/components/Tree";
- import struct from "./src/struct";
+ import Tree from "./src/components/Base";
+ import struct, {struct2} from "./src/struct";
  
  // 这里并不需要让用户输入数组类型的selected来选择选中哪个分支，
  // 我们只需要让用户传入选中的分支的ID即可，如果是叶子分支，那么渲染到叶子分支即可
@@ -17,12 +17,12 @@
  // 这里我们需要写一个N叉树的搜索算法，该算法支持记录路径
  export default function APP() {
 
-   const onSelected = (val: string) => {
-    console.log(val + "selected");
+   const onSelected = (val: Array<string>) => {
+    console.log(val);
    }
    return (
      <>
-      <Tree struct={struct} defaultSelected={"12"} onSelected={onSelected} />
+      <Tree struct={struct2} onSelected={onSelected} />
      </>
    );
  }
