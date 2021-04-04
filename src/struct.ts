@@ -1,4 +1,12 @@
-const struct = [
+import data from './data';
+
+
+interface Item {
+  key: string;
+  name: string;
+  children?: Array<Object>
+}
+const struct: Array<Item> = [
   {
     key: "0",
     name: "浙江省",
@@ -32,7 +40,8 @@ const struct = [
               {
                 key: "1121",
                 name: "海淀区下的海淀区下的"
-              }
+              },
+              
             ]
           }
         ]
@@ -48,8 +57,21 @@ const struct = [
         ]
       }
     ]
+  },
+  {
+    key: "2",
+    name: "test"
+  },
+  {
+    key: "3",
+    name: "test"
+  },
+  {
+    key: "4",
+    name: "test"
   }
 ];
-export const struct2 = [["list1", "list2", "list3"],["list5","list6"],["list8"]];
+export const countryData = data.provinceList;
+export const struct2: Array<Array<string>> = [["list1", "list2", "list3"],["list5","list6"],["list8"]];
 export default struct;
 

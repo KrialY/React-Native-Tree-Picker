@@ -1,11 +1,11 @@
 import React from "react";
-import { View, Text, StyleSheet } from "react-native";
+import { View, StyleSheet } from "react-native";
 import TreeNode from "./TreeNode";
 
 interface Props {
   struct: Array<Array<string>>;
   defaultSelectedArr?: Array<number>;
-  onSelected: (path: Array<string>) => void;
+  onSelected?: (path: Array<string>) => void;
 }
 export default function Tree({struct, defaultSelectedArr = [], onSelected}: Props) {
   const path: Array<string> = [];

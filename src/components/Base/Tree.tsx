@@ -1,10 +1,11 @@
 import React, { useState, useEffect, Fragment } from "react";
 import { View, StyleSheet } from "react-native";
 import TreeNode from "./TreeNode";
+import { mixKeyByAug } from '../../utils';
 
 const findPath = (struct: any, key: string): any => {
-  let resPath = null,
-    resObj = null;
+  let resPath: any = [],
+    resObj: any = [];
 
   dfs(struct, [], [], key, false);
   function dfs(struct: any, path: Array<string>, pathObj: Array<any>, key: string, isFind?: boolean) {
@@ -12,14 +13,15 @@ const findPath = (struct: any, key: string): any => {
 
     for (let i = 0; i < struct.length; i++) {
       let node = struct[i];
-      path.push(node.key);
+      const mixKey = mixKeyByAug(node.key, node.name);
+      path.push(mixKey);
       pathObj.push({key: node.key, val: node.name});
-      if (node.key === key) {
+      if (mixKey === key) {
         isFind = true;
         let nodes = node.children;
         while (nodes && nodes.length > 0) {
           let firstNode = nodes[0];
-          path.push(firstNode.key);
+          path.push(mixKeyByAug(firstNode.key, firstNode.name));
           pathObj.push({key: firstNode.key, val: firstNode.name});
           nodes = firstNode.children;
         }
@@ -39,13 +41,15 @@ const findPath = (struct: any, key: string): any => {
 };
 
 interface Props {
-  struct: any;
-  defaultSelected: string;
-  onSelected: (path: Array<string>) => void;
+  struct: Array<Object>;
+  defaultSelected?: string;
+  onSelected?: (path: Array<string>) => void;
 }
-export default function Tree({ struct, defaultSelected, onSelected }: Props) {
+
+export default function Tree({ struct, defaultSelected = "name - 山东省", onSelected }: Props) {
   const [selected, setSelected] = useState(defaultSelected);
-  const { path, pathObj }: any = findPath(struct, selected) || [];
+  const { path, pathObj }: any = findPath(struct, selected);
+  console.log(path, "tree render once");
   
   useEffect(() => {
     onSelected && onSelected(pathObj);
@@ -53,7 +57,7 @@ export default function Tree({ struct, defaultSelected, onSelected }: Props) {
   const traverse = (struct: any, dep: number) => {
     if (!struct || struct.length <= 0) return;
     const res = struct.map((item: any) => {
-      let key: string = item.key;
+      let key: string = mixKeyByAug(item.key, item.name);
 
       if (path.includes(key)) {
         return (
@@ -87,6 +91,7 @@ export default function Tree({ struct, defaultSelected, onSelected }: Props) {
 
 const styles = StyleSheet.create({
   treeWrapper: {
-    flexDirection: "row"
+    flexDirection: "row",
+    flexWrap: 'wrap'
   }
 });

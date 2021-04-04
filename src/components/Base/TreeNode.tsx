@@ -1,13 +1,15 @@
 import React, { useState } from "react";
-import { View, StyleSheet } from "react-native";
+import { View, StyleSheet, Dimensions } from "react-native";
 import {Picker} from '@react-native-picker/picker';
-
+const { width: SCREENWIDTH } = Dimensions.get('window');
+import { mixKeyByAug } from '../../utils';
 interface Props {
   struct: any;
   onSelected: (val: string) => void;
   defaultSelected: string;
+  lineItemNumber?: number
 }
-export default function TreeNode({ struct, onSelected, defaultSelected }: Props) {
+export default function TreeNode({ struct, onSelected, defaultSelected, lineItemNumber = 3 }: Props) {
   const [selectedValue, setSelectedValue] = useState(defaultSelected);
 
   const traverse = (struct: any) => {
@@ -15,8 +17,8 @@ export default function TreeNode({ struct, onSelected, defaultSelected }: Props)
       <View style={styles.pickerContainer}>
         <Picker
           selectedValue={selectedValue}
-          style={{ height: 50, width: 150 }}
-          onValueChange={(itemValue) => {
+          style={{ width: SCREENWIDTH / lineItemNumber}}
+          onValueChange={(itemValue, i) => {
             setSelectedValue(itemValue);
             onSelected(itemValue);
           }}
@@ -24,7 +26,7 @@ export default function TreeNode({ struct, onSelected, defaultSelected }: Props)
           {struct.map((item: any) => {
             const key = item.key || item;
             const val = item.name || item;
-            return <Picker.Item key={key} label={val} value={key} />;
+            return <Picker.Item key={key} label={val} value={mixKeyByAug(key, val)} />;
           })}
         </Picker>
       </View>
@@ -36,7 +38,6 @@ export default function TreeNode({ struct, onSelected, defaultSelected }: Props)
 
 const styles = StyleSheet.create({
   pickerContainer: {
-    flex: 1,
     alignItems: "center"
   }
 });
