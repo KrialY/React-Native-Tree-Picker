@@ -1,6 +1,3 @@
-import data from './data';
-
-
 interface Item {
   key: string;
   name: string;
@@ -71,7 +68,6 @@ const struct: Array<Item> = [
     name: "test"
   }
 ];
-export const countryData = data.provinceList;
 export const struct2: Array<Array<string>> = [["list1", "list2", "list3"],["list5","list6"],["list8"]];
 export default struct;
 
