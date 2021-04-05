@@ -31,7 +31,9 @@ export default function Tree({structData, defaultSelectedArr = [], onSelected, c
 
   const _onLayout = (e: any) => {
     const {width} = e.nativeEvent.layout;
-    setPWidth(width);
+    if(pWidth <= 0) {
+      setPWidth(width);
+    }
   }
 
   return (

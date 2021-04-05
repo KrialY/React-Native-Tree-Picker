@@ -59,6 +59,7 @@ export default function Tree({ structData, defaultSelected = "浙江省", onSele
   const { valkey, uniqueKey, childrenKey } = struct;
   const { path, pathObj }: any = findPath(structData, selected, valkey, uniqueKey, childrenKey);
   
+  console.log("render");
   useEffect(() => {
     onSelected && onSelected(pathObj);
   }, [selected]);
@@ -98,7 +99,9 @@ export default function Tree({ structData, defaultSelected = "浙江省", onSele
   
   const _onLayout = (e: any) => {
     const {width} = e.nativeEvent.layout;
-    setPWidth(width);
+    if(pWidth <= 0) {
+      setPWidth(width);
+    }
   }
 
   return <View onLayout={_onLayout} style={styles.treeWrapper}>{traverse(structData, 0)}</View>;
