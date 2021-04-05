@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import { View, StyleSheet, Dimensions } from "react-native";
-import {Picker} from '@react-native-picker/picker';
+import { Picker } from '@react-native-picker/picker';
 interface Props {
   pWidth: number;
   structData: any;
   onSelected: (val: string) => void;
   defaultSelected: string;
   lineItemNumber?: number;
-  valkey: string;
-  uniqueKey: string;
+  valkey?: string;
+  uniqueKey?: string;
 }
 export default function TreeNode({ structData, onSelected, defaultSelected, lineItemNumber = 3, pWidth, valkey, uniqueKey }: Props) {
   const [selectedValue, setSelectedValue] = useState(defaultSelected);
@@ -26,8 +26,8 @@ export default function TreeNode({ structData, onSelected, defaultSelected, line
           }}
         >
           {structData.map((item: any) => {
-            const key = item[uniqueKey] || item;
-            const val = item[valkey] || item;
+            const key = item[uniqueKey as any] || item;
+            const val = item[valkey as any] || item;
             return <Picker.Item key={key} label={val} value={key} />;
           })}
         </Picker>

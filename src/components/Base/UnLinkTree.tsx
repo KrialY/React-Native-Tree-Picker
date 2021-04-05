@@ -1,17 +1,17 @@
-import React from "react";
+import React, {useState} from "react";
 import { View, StyleSheet } from "react-native";
 import TreeNode from "./TreeNode";
 
 interface Props {
-  pWidth:  number;
-  struct: Array<Array<string>>;
+  structData: Array<Array<string>>;
   defaultSelectedArr?: Array<number>;
   onSelected?: (path: Array<string>) => void;
   columeOfNum?: number;
 }
-export default function Tree({struct, defaultSelectedArr = [], onSelected, pWidth, columeOfNum}: Props) {
+export default function Tree({structData, defaultSelectedArr = [], onSelected, columeOfNum}: Props) {
+  const [pWidth, setPWidth] = useState(0);
   const path: Array<string> = [];
-  const res = struct.map((item, i) => {
+  const res = structData.map((item, i) => {
     // item[0]可能为undefined，暂未处理
     path[i] = defaultSelectedArr[i] === undefined ? item[0] : item[defaultSelectedArr[i]];
     return (
@@ -24,12 +24,18 @@ export default function Tree({struct, defaultSelectedArr = [], onSelected, pWidt
           path[i] = val;
           onSelected && onSelected(path);
         }}
-        struct={item}
+        structData={item}
       />
     )
   });
+
+  const _onLayout = (e: any) => {
+    const {width} = e.nativeEvent.layout;
+    setPWidth(width);
+  }
+
   return (
-    <View style={styles.treeWrapper}>{res}</View>
+    <View onLayout={_onLayout} style={styles.treeWrapper}>{res}</View>
   );
 }
 

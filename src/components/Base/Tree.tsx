@@ -65,7 +65,7 @@ export default function Tree({ structData, defaultSelected = "浙江省", onSele
   const traverse = (structData: any, dep: number) => {
     if (!structData || structData.length <= 0 || (level !== undefined && dep >= level)) return;
     const res = structData.map((item: any) => {
-      let key: string = item[valkey];
+      let key: string = item[uniqueKey];
 
       if (path.includes(key)) {
         return (
