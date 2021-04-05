@@ -1,19 +1,19 @@
 import React, { useState } from "react";
 import { View, StyleSheet, Dimensions } from "react-native";
 import {Picker} from '@react-native-picker/picker';
-const { width: SCREENWIDTH } = Dimensions.get('window');
-import { mixKeyByAug } from '../../utils';
 interface Props {
   pWidth: number;
-  struct: any;
+  structData: any;
   onSelected: (val: string) => void;
   defaultSelected: string;
   lineItemNumber?: number;
+  valkey: string;
+  uniqueKey: string;
 }
-export default function TreeNode({ struct, onSelected, defaultSelected, lineItemNumber = 3, pWidth }: Props) {
+export default function TreeNode({ structData, onSelected, defaultSelected, lineItemNumber = 3, pWidth, valkey, uniqueKey }: Props) {
   const [selectedValue, setSelectedValue] = useState(defaultSelected);
 
-  const traverse = (struct: any) => {
+  const traverse = (structData: any) => {
     return (
       <View style={styles.pickerContainer}>
         <Picker
@@ -25,17 +25,17 @@ export default function TreeNode({ struct, onSelected, defaultSelected, lineItem
             onSelected(itemValue);
           }}
         >
-          {struct.map((item: any) => {
-            const key = item.key || item;
-            const val = item.name || item;
-            return <Picker.Item key={key} label={val} value={mixKeyByAug(key, val)} />;
+          {structData.map((item: any) => {
+            const key = item[uniqueKey] || item;
+            const val = item[valkey] || item;
+            return <Picker.Item key={key} label={val} value={key} />;
           })}
         </Picker>
       </View>
     );
   };
 
-  return traverse(struct);
+  return traverse(structData);
 }
 
 const styles = StyleSheet.create({

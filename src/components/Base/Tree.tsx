@@ -1,35 +1,34 @@
 import React, { useState, useEffect, Fragment } from "react";
 import { View, StyleSheet } from "react-native";
 import TreeNode from "./TreeNode";
-import { mixKeyByAug } from '../../utils';
 
-const findPath = (struct: any, key: string): any => {
+const findPath = (structData: any, key: string, valkey: string, uniqueKey: string, childrenKey: string): any => {
   let resPath: any = [],
     resObj: any = [];
 
-  dfs(struct, [], [], key, false);
-  function dfs(struct: any, path: Array<string>, pathObj: Array<any>, key: string, isFind?: boolean) {
-    if (isFind || !struct || struct.length <= 0) return;
+  dfs(structData, [], [], key, false);
+  function dfs(structData: any, path: Array<string>, pathObj: Array<any>, key: string, isFind?: boolean) {
+    if (isFind || !structData || structData.length <= 0) return;
 
-    for (let i = 0; i < struct.length; i++) {
-      let node = struct[i];
-      const mixKey = mixKeyByAug(node.key, node.name);
+    for (let i = 0; i < structData.length; i++) {
+      let node = structData[i];
+      const mixKey = node[uniqueKey];
       path.push(mixKey);
-      pathObj.push({key: node.key, val: node.name});
+      pathObj.push({key: node[uniqueKey], val: node[valkey]});
       if (mixKey === key) {
         isFind = true;
-        let nodes = node.children;
+        let nodes = node[childrenKey];
         while (nodes && nodes.length > 0) {
           let firstNode = nodes[0];
-          path.push(mixKeyByAug(firstNode.key, firstNode.name));
-          pathObj.push({key: firstNode.key, val: firstNode.name});
-          nodes = firstNode.children;
+          path.push(firstNode[uniqueKey]);
+          pathObj.push({key: firstNode[uniqueKey], val: firstNode[valkey]});
+          nodes = firstNode[childrenKey];
         }
         resPath = [...path];
         resObj = [...pathObj];
         return;
       }
-      dfs(node.children, path, pathObj, key);
+      dfs(node[childrenKey], path, pathObj, key);
       path.pop();
       pathObj.pop();
     }
@@ -40,29 +39,37 @@ const findPath = (struct: any, key: string): any => {
   }
 };
 
+export interface Struct {
+  uniqueKey: string;
+  valkey: string;
+  childrenKey: string;
+}
 export interface Props {
-  struct: Array<Object>;
+  structData: Array<Object>;
   defaultSelected?: string;
   onSelected?: (path: Array<string>) => void;
   columeOfNum?: number;
+  struct: Struct;
+  level?: number;
 }
 
-export default function Tree({ struct, defaultSelected = "name - 山东省", onSelected, columeOfNum }: Props) {
+export default function Tree({ structData, defaultSelected = "浙江省", onSelected, columeOfNum, struct, level }: Props) {
   const [selected, setSelected] = useState(defaultSelected);
-  const { path, pathObj }: any = findPath(struct, selected);
   const [pWidth, setPWidth] = useState(0);
+  const { valkey, uniqueKey, childrenKey } = struct;
+  const { path, pathObj }: any = findPath(structData, selected, valkey, uniqueKey, childrenKey);
   
   useEffect(() => {
     onSelected && onSelected(pathObj);
   }, [selected]);
-  const traverse = (struct: any, dep: number) => {
-    if (!struct || struct.length <= 0) return;
-    const res = struct.map((item: any) => {
-      let key: string = mixKeyByAug(item.key, item.name);
+  const traverse = (structData: any, dep: number) => {
+    if (!structData || structData.length <= 0 || (level !== undefined && dep >= level)) return;
+    const res = structData.map((item: any) => {
+      let key: string = item[valkey];
 
       if (path.includes(key)) {
         return (
-          <Fragment key={key}>{traverse(item.children, dep + 1)}</Fragment>
+          <Fragment key={key}>{traverse(item[childrenKey], dep + 1)}</Fragment>
         );
       }
     });
@@ -72,6 +79,8 @@ export default function Tree({ struct, defaultSelected = "name - 山东省", onS
           pWidth={pWidth}
           defaultSelected={path[dep]}
           key={dep}
+          valkey={valkey}
+          uniqueKey={uniqueKey}
           lineItemNumber={columeOfNum}
           onSelected={(val) => {
             // 性能优化，减少render次数。选择父节点的时候，默认会渲染父元素下的第一个子元素，子元素初始化会调用onSelected事件
@@ -80,7 +89,7 @@ export default function Tree({ struct, defaultSelected = "name - 山东省", onS
               setSelected(val);
             }
           }}
-          struct={struct}
+          structData={structData}
         />
         {res}
       </>
@@ -92,7 +101,7 @@ export default function Tree({ struct, defaultSelected = "name - 山东省", onS
     setPWidth(width);
   }
 
-  return <View onLayout={_onLayout} style={styles.treeWrapper}>{traverse(struct, 0)}</View>;
+  return <View onLayout={_onLayout} style={styles.treeWrapper}>{traverse(structData, 0)}</View>;
 }
 
 
