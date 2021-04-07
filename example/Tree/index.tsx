@@ -12,7 +12,7 @@ export default function Example() {
   }
 
   const onSelected = (path: any) => {
-    console.log(path);
+    console.log(path, '//');
   }
 
   return (
@@ -20,7 +20,7 @@ export default function Example() {
       <View style={styles.line}>
         <Text>Tree Picker👇:</Text>
       </View>
-      <Tree struct={struct} onSelected={onSelected} structData={structData} />
+      <Tree defaultSelected="北京市" struct={struct} onSelected={onSelected} structData={structData} />
     </>
   )
 }

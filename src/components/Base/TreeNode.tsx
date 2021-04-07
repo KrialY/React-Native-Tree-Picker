@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, StyleSheet, Dimensions } from "react-native";
+import { View, StyleSheet } from "react-native";
 import { Picker } from '@react-native-picker/picker';
 interface Props {
   pWidth: number;
