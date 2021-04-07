@@ -8,12 +8,14 @@ export default function Example() {
     console.log(path);
   }
 
+  const defaultSelectedArr = [2, 1];
+
   return (
     <>
       <View style={styles.line}>
         <Text>Tree Picker👇:</Text>
       </View>
-      <UnLinkTree onSelected={onSelected} structData={structData} />
+      <UnLinkTree defaultSelectedArr={defaultSelectedArr} onSelected={onSelected} structData={structData} />
     </>
   )
 }

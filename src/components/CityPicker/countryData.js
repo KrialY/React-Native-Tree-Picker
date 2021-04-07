@@ -74,9 +74,6 @@ export default [
               },
               {
                 "name": "和平里"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "东城区"
@@ -175,9 +172,6 @@ export default [
               },
               {
                 "name": "月坛"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "西城区"
@@ -198,9 +192,6 @@ export default [
               },
               {
                 "name": "永定门"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "崇文区"
@@ -236,9 +227,6 @@ export default [
               },
               {
                 "name": "和平门"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "宣武区"
@@ -418,9 +406,6 @@ export default [
               },
               {
                 "name": "甜水园"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "朝阳区"
@@ -531,9 +516,6 @@ export default [
               },
               {
                 "name": "刘家窑"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "丰台区"
@@ -587,9 +569,6 @@ export default [
               },
               {
                 "name": "五里坨"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "石景山区"
@@ -730,9 +709,6 @@ export default [
               },
               {
                 "name": "马连洼"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "海淀区"
@@ -756,9 +732,6 @@ export default [
               },
               {
                 "name": "永定"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "门头沟区"
@@ -788,9 +761,6 @@ export default [
               },
               {
                 "name": "房山其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "房山区"
@@ -862,9 +832,6 @@ export default [
               },
               {
                 "name": "中仓"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "通州区"
@@ -909,9 +876,6 @@ export default [
               },
               {
                 "name": "新国展"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "顺义区"
@@ -980,9 +944,6 @@ export default [
               },
               {
                 "name": "十三陵"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "昌平区"
@@ -1030,9 +991,6 @@ export default [
               },
               {
                 "name": "同兴园"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "大兴区"
@@ -1065,9 +1023,6 @@ export default [
               },
               {
                 "name": "怀北"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "怀柔区"
@@ -1103,19 +1058,12 @@ export default [
               },
               {
                 "name": "平谷城区"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "平谷区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "密云县"
           },
           {
@@ -1134,21 +1082,11 @@ export default [
               },
               {
                 "name": "永宁"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "延庆县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -1199,9 +1137,6 @@ export default [
               },
               {
                 "name": "和平其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "和平区"
@@ -1246,9 +1181,6 @@ export default [
               },
               {
                 "name": "大桥道"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "河东区"
@@ -1317,9 +1249,6 @@ export default [
               },
               {
                 "name": "永安道"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "河西区"
@@ -1388,9 +1317,6 @@ export default [
               },
               {
                 "name": "天拖地区"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南开区"
@@ -1429,9 +1355,6 @@ export default [
               },
               {
                 "name": "鸿顺里街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "河北区"
@@ -1470,35 +1393,20 @@ export default [
               },
               {
                 "name": "老城厢"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "红桥区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "塘沽区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汉沽区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大港区"
           },
           {
@@ -1538,9 +1446,6 @@ export default [
               },
               {
                 "name": "程林庄"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "东丽区"
@@ -1582,9 +1487,6 @@ export default [
               },
               {
                 "name": "华苑街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "西青区"
@@ -1617,9 +1519,6 @@ export default [
               },
               {
                 "name": "双桥河"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "津南区"
@@ -1658,9 +1557,6 @@ export default [
               },
               {
                 "name": "北仓"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "北辰区"
@@ -1708,9 +1604,6 @@ export default [
               },
               {
                 "name": "城关"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "武清区"
@@ -1740,9 +1633,6 @@ export default [
               },
               {
                 "name": "牛家牌"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "宝坻区"
@@ -1763,9 +1653,6 @@ export default [
               },
               {
                 "name": "芦台"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "宁河县"
@@ -1783,9 +1670,6 @@ export default [
               },
               {
                 "name": "大邱庄"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "静海县"
@@ -1815,9 +1699,6 @@ export default [
               },
               {
                 "name": "下营"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "蓟县"
@@ -1895,21 +1776,11 @@ export default [
               },
               {
                 "name": "迎宾街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "滨海新区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -1963,9 +1834,6 @@ export default [
               },
               {
                 "name": "长安其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "长安区"
@@ -2010,9 +1878,6 @@ export default [
               },
               {
                 "name": "休门"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "桥东区"
@@ -2060,9 +1925,6 @@ export default [
               },
               {
                 "name": "新石"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "桥西区"
@@ -2131,19 +1993,12 @@ export default [
               },
               {
                 "name": "西三庄"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "新华区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "井陉矿区"
           },
           {
@@ -2177,1487 +2032,739 @@ export default [
               },
               {
                 "name": "宋营"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "裕华区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "井陉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "正定县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "栾城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "行唐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灵寿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高邑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "深泽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赞皇县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "无极县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "元氏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "辛集市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "藁城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "晋州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新乐市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鹿泉市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "唐山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "路南区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "路北区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "古冶区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "开平区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰南区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰润区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "滦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "滦南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乐亭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "迁西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玉田县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "唐海县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "遵化市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "迁安市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "秦皇岛市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海港区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "山海关区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北戴河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青龙满族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌黎县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "抚宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "卢龙县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "邯郸市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邯山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丛台区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "复兴区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "峰峰矿区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邯郸县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临漳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "成安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大名县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "磁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "肥乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永年县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邱县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鸡泽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "馆陶县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "魏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曲周县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武安市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "邢台市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桥东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桥西区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邢台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "内丘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柏乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隆尧县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "任县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁晋县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巨鹿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广宗县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "威县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南宫市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沙河市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "内邱县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "保定市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新市区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北市区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南市区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "满城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清苑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涞水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阜平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "徐水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定兴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "唐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "容城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涞源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "望都县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安新县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "易县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曲阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蠡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "顺平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "博野县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雄县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涿州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安国市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高碑店市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "张家口市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桥东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桥西区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宣化区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "下花园区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宣化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "张北县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "康保县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沽源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尚义县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蔚县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳原县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "怀安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万全县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "怀来县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涿鹿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赤城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "崇礼县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "承德市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双桥区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双滦区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鹰手营子矿区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "承德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴隆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平泉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "滦平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隆化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰宁满族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宽城满族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "围场满族蒙古族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "沧州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新华区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "运河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沧县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东光县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海兴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盐山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "肃宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南皮县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吴桥县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "献县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "孟村回族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泊头市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "任丘市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄骅市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "河间市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "廊坊市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安次区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "固安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永清县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "香河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "文安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大厂回族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "霸州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三河市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "衡水市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桃城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "枣强县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武邑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武强县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "饶阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "故城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "景县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阜城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "冀州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "深州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -3693,9 +2800,6 @@ export default [
               },
               {
                 "name": "长风街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "小店区"
@@ -3731,9 +2835,6 @@ export default [
               },
               {
                 "name": "柳巷"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "迎泽区"
@@ -3769,9 +2870,6 @@ export default [
               },
               {
                 "name": "鼓楼"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "杏花岭区"
@@ -3801,9 +2899,6 @@ export default [
               },
               {
                 "name": "上兰"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "尖草坪区"
@@ -3845,9 +2940,6 @@ export default [
               },
               {
                 "name": "下元"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "万柏林区"
@@ -3868,1055 +2960,523 @@ export default [
               },
               {
                 "name": "晋祠"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "晋源区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清徐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳曲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "娄烦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "古交市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "大同市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "矿区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南郊区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新荣区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳高县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天镇县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广灵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灵丘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浑源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "左云县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大同县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阳泉市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "矿区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郊区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平定县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盂县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "长治市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郊区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "襄垣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "屯留县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平顺县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黎城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "壶关县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长子县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沁源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潞城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "晋城市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沁水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陵川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泽州县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高平市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "朔州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "朔城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平鲁区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "山阴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "应县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "右玉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "怀仁县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "晋中市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "榆次区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "榆社县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "左权县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和顺县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昔阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "寿阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太谷县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "祁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平遥县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灵石县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "介休市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "运城市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盐湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临猗县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万荣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "闻喜县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "稷山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新绛县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绛县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "垣曲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "夏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平陆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芮城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永济市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "河津市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "忻州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "忻府区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定襄县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "代县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "繁峙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁武县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "静乐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "神池县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五寨县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岢岚县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "河曲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "保德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "偏关县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "原平市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "临汾市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尧都区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曲沃县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "翼城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "襄汾县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洪洞县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "古县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安泽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浮山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乡宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蒲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汾西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "侯马市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "霍州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "吕梁市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "离石区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "文水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "交城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柳林县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石楼县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岚县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "方山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "中阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "交口县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "孝义市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汾阳市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -4955,9 +3515,6 @@ export default [
               },
               {
                 "name": "新城其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "新城区"
@@ -4990,9 +3547,6 @@ export default [
               },
               {
                 "name": "回民其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "回民区"
@@ -5019,9 +3573,6 @@ export default [
               },
               {
                 "name": "玉泉其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "玉泉区"
@@ -5057,940 +3608,465 @@ export default [
               },
               {
                 "name": "大学西路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "赛罕区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "土默特左旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "托克托县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和林格尔县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清水河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武川县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "包头市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昆都仑区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石拐区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "白云矿区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "九原区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "土默特右旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "固阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "达尔罕茂明安联合旗"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "乌海市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海勃湾区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海南区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌达区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "赤峰市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "红山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "元宝山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "松山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿鲁科尔沁旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴林左旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴林右旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "林西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "克什克腾旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "翁牛特旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "喀喇沁旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "敖汉旗"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "通辽市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "科尔沁区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "科尔沁左翼中旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "科尔沁左翼后旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "开鲁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "库伦旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "奈曼旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "扎鲁特旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "霍林郭勒市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "鄂尔多斯市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东胜区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "达拉特旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "准格尔旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鄂托克前旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鄂托克旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "杭锦旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌审旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "伊金霍洛旗"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "呼伦贝尔市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海拉尔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿荣旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莫力达瓦达斡尔族自治旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鄂伦春自治旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鄂温克族自治旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陈巴尔虎旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新巴尔虎左旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新巴尔虎右旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "满洲里市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "牙克石市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "扎兰屯市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "额尔古纳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "根河市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "巴彦淖尔市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五原县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "磴口县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌拉特前旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌拉特中旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌拉特后旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "杭锦后旗"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "乌兰察布市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "集宁区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "卓资县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "化德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "商都县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凉城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "察哈尔右翼前旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "察哈尔右翼中旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "察哈尔右翼后旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "四子王旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰镇市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "兴安盟",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌兰浩特市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿尔山市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "科尔沁右翼前旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "科尔沁右翼中旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "扎赉特旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "突泉县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "锡林郭勒盟",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "二连浩特市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "锡林浩特市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿巴嘎旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "苏尼特左旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "苏尼特右旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东乌珠穆沁旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西乌珠穆沁旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太仆寺旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镶黄旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "正镶白旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "正蓝旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "多伦县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阿拉善盟",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿拉善左旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿拉善右旗"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "额济纳旗"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -6068,9 +4144,6 @@ export default [
               },
               {
                 "name": "五里河"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "和平区"
@@ -6151,9 +4224,6 @@ export default [
               },
               {
                 "name": "山东庙"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "沈河区"
@@ -6213,9 +4283,6 @@ export default [
               },
               {
                 "name": "珠林"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "大东区"
@@ -6299,9 +4366,6 @@ export default [
               },
               {
                 "name": "北陵电影院"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "皇姑区"
@@ -6376,9 +4440,6 @@ export default [
               },
               {
                 "name": "齐贤"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "铁西区"
@@ -6402,9 +4463,6 @@ export default [
               },
               {
                 "name": "南站"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "苏家屯区"
@@ -6449,19 +4507,12 @@ export default [
               },
               {
                 "name": "英达"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "东陵区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新城子区"
           },
           {
@@ -6513,43 +4564,24 @@ export default [
               },
               {
                 "name": "翟家"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "于洪区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "辽中县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "康平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "法库县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新民市"
           },
           {
@@ -6565,21 +4597,11 @@ export default [
               },
               {
                 "name": "新城子"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "沈北新区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -6709,9 +4731,6 @@ export default [
               },
               {
                 "name": "桂林街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "中山区"
@@ -6852,9 +4871,6 @@ export default [
               },
               {
                 "name": "体育场"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "西岗区"
@@ -7028,9 +5044,6 @@ export default [
               },
               {
                 "name": "高尔基路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "沙河口区"
@@ -7231,9 +5244,6 @@ export default [
               },
               {
                 "name": "周水前"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "甘井子区"
@@ -7275,9 +5285,6 @@ export default [
               },
               {
                 "name": "老铁山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "旅顺口区"
@@ -7346,849 +5353,419 @@ export default [
               },
               {
                 "name": "斯大林路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "金州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长海县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "瓦房店市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "普兰店市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "庄河市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "瓦房店"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "普兰店"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "鞍山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铁东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铁西区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "立山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "千山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "台安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岫岩满族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "抚顺市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新抚区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东洲区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "望花区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "顺城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "抚顺县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新宾满族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清原满族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "本溪市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "溪湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "明山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南芬区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "本溪满族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桓仁满族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "丹东市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "元宝区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "振兴区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "振安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宽甸满族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东港市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "锦州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "古塔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凌河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太和区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黑山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "义县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凌海市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北宁市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北镇市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "营口市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "站前区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西市区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鲅鱼圈区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "老边区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盖州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大石桥市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阜新市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新邱区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太平区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清河门区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "细河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阜新蒙古族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "彰武县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "辽阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "白塔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "文圣区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宏伟区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "弓长岭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太子河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "辽阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灯塔市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "盘锦市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双台子区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴隆台区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大洼县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盘山县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "铁岭市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "银州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铁岭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌图县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "调兵山市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "开原市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "朝阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双塔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "朝阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "喀喇沁左翼蒙古族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北票市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凌源市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "葫芦岛市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "连山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙港区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南票区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绥中县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -8347,9 +5924,6 @@ export default [
               },
               {
                 "name": "岳阳街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南关区"
@@ -8430,9 +6004,6 @@ export default [
               },
               {
                 "name": "兴业"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "宽城区"
@@ -8591,9 +6162,6 @@ export default [
               },
               {
                 "name": "北安路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "朝阳区"
@@ -8656,9 +6224,6 @@ export default [
               },
               {
                 "name": "岭东路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "二道区"
@@ -8754,9 +6319,6 @@ export default [
               },
               {
                 "name": "春城大街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "绿园区"
@@ -8774,573 +6336,283 @@ export default [
               },
               {
                 "name": "平湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "双阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "农安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "九台市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "榆树市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德惠市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "吉林市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌邑区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙潭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "船营区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰满区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永吉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蛟河市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桦甸市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "舒兰市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "磐石市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "四平市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铁西区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铁东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梨树县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "伊通满族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "公主岭市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双辽市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "辽源市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东辽县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "通化市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东昌区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "二道江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "辉南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柳河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梅河口市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "集安市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "白山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "八道江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "抚松县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "靖宇县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长白朝鲜族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临江市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江源区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浑江区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "松原市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "前郭尔罗斯蒙古族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长岭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乾安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "扶余县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "白城市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洮北区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇赉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通榆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洮南市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大安市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "延边朝鲜族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "延吉市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "图们市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "敦化市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "珲春市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙井市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和龙市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汪清县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安图县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -9424,9 +6696,6 @@ export default [
               },
               {
                 "name": "通江"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "道里区"
@@ -9531,9 +6800,6 @@ export default [
               },
               {
                 "name": "红旗"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南岗区"
@@ -9626,9 +6892,6 @@ export default [
               },
               {
                 "name": "淮河路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "道外区"
@@ -9688,9 +6951,6 @@ export default [
               },
               {
                 "name": "东北农业大学"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "香坊区"
@@ -9726,9 +6986,6 @@ export default [
               },
               {
                 "name": "黎明"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "动力区"
@@ -9758,9 +7015,6 @@ export default [
               },
               {
                 "name": "友协"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "平房区"
@@ -9784,107 +7038,56 @@ export default [
               },
               {
                 "name": "太阳岛"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "松北区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "呼兰区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "依兰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "方正县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宾县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴彦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "木兰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "延寿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尚志市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五常市"
           },
           {
@@ -9900,1073 +7103,531 @@ export default [
               },
               {
                 "name": "果戈里"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "市辖区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "齐齐哈尔市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙沙区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建华区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铁锋区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昂昂溪区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富拉尔基区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "碾子山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梅里斯达斡尔族区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "依安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泰来县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "甘南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富裕县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "克山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "克东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "拜泉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "讷河市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "鸡西市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鸡冠区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "恒山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "滴道区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梨树区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城子河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麻山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鸡东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "虎林市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "密山市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "鹤岗市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "向阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "工农区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "萝北县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绥滨县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "双鸭山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尖山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岭东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "四方台区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宝山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "集贤县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "友谊县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宝清县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "饶河县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "大庆市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "萨尔图区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙凤区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "让胡路区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "红岗区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大同区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "肇州县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "肇源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "林甸县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "杜尔伯特蒙古族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "伊春市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "伊春区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南岔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "友好区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西林区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "翠峦区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新青区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "美溪区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金山屯区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五营区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌马河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汤旺河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "带岭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌伊岭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "红星区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上甘岭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嘉荫县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铁力市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "佳木斯市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永红区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "向阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "前进区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东风区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郊区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桦南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桦川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汤原县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "抚远县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "同江市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富锦市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市辖区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "七台河市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新兴区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桃山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "茄子河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "勃利县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "牡丹江市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳明区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "爱民区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "林口县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绥芬河市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海林市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁安市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "穆棱市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "黑河市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "爱辉区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嫩江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "逊克县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "孙吴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北安市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五大连池市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "绥化市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北林区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "望奎县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兰西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青冈县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "庆安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "明水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绥棱县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安达市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "肇东市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海伦市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "大兴安岭地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "呼玛县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "塔河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "漠河县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -11014,9 +7675,6 @@ export default [
               },
               {
                 "name": "十六铺"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "黄浦区"
@@ -11046,9 +7704,6 @@ export default [
               },
               {
                 "name": "复兴公园"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "卢湾区"
@@ -11126,9 +7781,6 @@ export default [
               },
               {
                 "name": "漕河泾"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "徐汇区"
@@ -11173,9 +7825,6 @@ export default [
               },
               {
                 "name": "长宁其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "长宁区"
@@ -11205,9 +7854,6 @@ export default [
               },
               {
                 "name": "江宁路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "静安区"
@@ -11264,9 +7910,6 @@ export default [
               },
               {
                 "name": "梅川路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "普陀区"
@@ -11329,9 +7972,6 @@ export default [
               },
               {
                 "name": "天目西路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "闸北区"
@@ -11385,9 +8025,6 @@ export default [
               },
               {
                 "name": "江湾"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "虹口区"
@@ -11450,9 +8087,6 @@ export default [
               },
               {
                 "name": "黄兴公园"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "杨浦区"
@@ -11533,9 +8167,6 @@ export default [
               },
               {
                 "name": "七宝"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "闵行区"
@@ -11613,9 +8244,6 @@ export default [
               },
               {
                 "name": "泗塘新村"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "宝山区"
@@ -11648,9 +8276,6 @@ export default [
               },
               {
                 "name": "嘉定城区"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "嘉定区"
@@ -11761,9 +8386,6 @@ export default [
               },
               {
                 "name": "塘桥"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "浦东新区"
@@ -11787,9 +8409,6 @@ export default [
               },
               {
                 "name": "金山卫"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "金山区"
@@ -11828,9 +8447,6 @@ export default [
               },
               {
                 "name": "九亭"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "松江区"
@@ -11854,19 +8470,12 @@ export default [
               },
               {
                 "name": "青浦其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "青浦区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南汇区"
           },
           {
@@ -11891,9 +8500,6 @@ export default [
               },
               {
                 "name": "金汇"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "奉贤区"
@@ -11911,21 +8517,11 @@ export default [
               },
               {
                 "name": "长兴岛"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "崇明县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -11985,9 +8581,6 @@ export default [
               },
               {
                 "name": "珠江路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "玄武区"
@@ -12044,9 +8637,6 @@ export default [
               },
               {
                 "name": "朝天宫"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "白下区"
@@ -12079,9 +8669,6 @@ export default [
               },
               {
                 "name": "升州路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "秦淮区"
@@ -12132,9 +8719,6 @@ export default [
               },
               {
                 "name": "南苑"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "建邺区"
@@ -12185,9 +8769,6 @@ export default [
               },
               {
                 "name": "湖南路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "鼓楼区"
@@ -12229,9 +8810,6 @@ export default [
               },
               {
                 "name": "西站"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "下关区"
@@ -12252,9 +8830,6 @@ export default [
               },
               {
                 "name": "浦口其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "浦口区"
@@ -12287,9 +8862,6 @@ export default [
               },
               {
                 "name": "栖霞其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "栖霞区"
@@ -12325,9 +8897,6 @@ export default [
               },
               {
                 "name": "雨花台其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "雨花台区"
@@ -12366,9 +8935,6 @@ export default [
               },
               {
                 "name": "江宁其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "江宁区"
@@ -12398,9 +8964,6 @@ export default [
               },
               {
                 "name": "六合其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "六合区"
@@ -12421,9 +8984,6 @@ export default [
               },
               {
                 "name": "白马"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "溧水县"
@@ -12438,21 +8998,11 @@ export default [
               },
               {
                 "name": "固城"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "高淳县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -12492,9 +9042,6 @@ export default [
               },
               {
                 "name": "中山路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "崇安区"
@@ -12545,9 +9092,6 @@ export default [
               },
               {
                 "name": "体育公园"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南长区"
@@ -12580,9 +9124,6 @@ export default [
               },
               {
                 "name": "惠山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "北塘区"
@@ -12615,9 +9156,6 @@ export default [
               },
               {
                 "name": "鹅湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "锡山区"
@@ -12635,9 +9173,6 @@ export default [
               },
               {
                 "name": "惠山其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "惠山区"
@@ -12667,138 +9202,69 @@ export default [
               },
               {
                 "name": "滨湖其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "滨湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江阴市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜兴市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "徐州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鼓楼区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云龙区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "九里区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贾汪区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泉山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沛县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铜山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "睢宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新沂市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邳州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -12886,9 +9352,6 @@ export default [
               },
               {
                 "name": "工人新村"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "天宁区"
@@ -12972,19 +9435,12 @@ export default [
               },
               {
                 "name": "勤业新村"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "钟楼区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "戚墅堰区"
           },
           {
@@ -13027,9 +9483,6 @@ export default [
               },
               {
                 "name": "珠江花园"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "新北区"
@@ -13062,37 +9515,19 @@ export default [
               },
               {
                 "name": "新城南都"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "武进区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "溧阳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金坛市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -13129,9 +9564,6 @@ export default [
               },
               {
                 "name": "南门"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "沧浪区"
@@ -13164,9 +9596,6 @@ export default [
               },
               {
                 "name": "南浩街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "平江区"
@@ -13199,9 +9628,6 @@ export default [
               },
               {
                 "name": "白洋湾"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "金阊区"
@@ -13231,9 +9657,6 @@ export default [
               },
               {
                 "name": "通安"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "虎丘区"
@@ -13338,9 +9761,6 @@ export default [
               },
               {
                 "name": "葑门"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "吴中区"
@@ -13376,27 +9796,16 @@ export default [
               },
               {
                 "name": "黄桥"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "相城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "常熟市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "张家港市"
           },
           {
@@ -13424,9 +9833,6 @@ export default [
               },
               {
                 "name": "淀山湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "昆山市"
@@ -13459,345 +9865,171 @@ export default [
               },
               {
                 "name": "桃源"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "吴江市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太仓市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "南通市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "崇川区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "港闸区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "如东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "启东市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "如皋市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海门市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通州区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "连云港市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "连云区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新浦区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赣榆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东海县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灌云县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灌南县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "淮安市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "楚州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "淮阴区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清浦区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涟水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洪泽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盱眙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金湖县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "盐城市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "亭湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盐都区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "响水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "滨海县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阜宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "射阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建湖县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东台市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大丰市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -13813,9 +10045,6 @@ export default [
               },
               {
                 "name": "广陵其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "广陵区"
@@ -13827,9 +10056,6 @@ export default [
               },
               {
                 "name": "文昌西路沿线"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "邗江区"
@@ -13841,228 +10067,113 @@ export default [
               },
               {
                 "name": "四望亭路沿线"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "维扬区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宝应县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仪征市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高邮市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江都市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "镇江市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "京口区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "润州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丹徒区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丹阳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "扬中市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "句容市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "泰州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海陵区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高港区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴化市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "靖江市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泰兴市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "姜堰市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "宿迁市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宿城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宿豫区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沭阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泗阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泗洪县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -14116,9 +10227,6 @@ export default [
               },
               {
                 "name": "上城其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "上城区"
@@ -14160,9 +10268,6 @@ export default [
               },
               {
                 "name": "长庆"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "下城区"
@@ -14204,9 +10309,6 @@ export default [
               },
               {
                 "name": "采荷"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "江干区"
@@ -14248,9 +10350,6 @@ export default [
               },
               {
                 "name": "康桥"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "拱墅区"
@@ -14313,9 +10412,6 @@ export default [
               },
               {
                 "name": "文二路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "西湖区"
@@ -14342,9 +10438,6 @@ export default [
               },
               {
                 "name": "江南"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "滨江区"
@@ -14488,9 +10581,6 @@ export default [
               },
               {
                 "name": "衙前"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "萧山区"
@@ -14550,9 +10640,6 @@ export default [
               },
               {
                 "name": "乔司"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "余杭区"
@@ -14573,9 +10660,6 @@ export default [
               },
               {
                 "name": "桐君"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "桐庐县"
@@ -14587,19 +10671,12 @@ export default [
               },
               {
                 "name": "石林"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "淳安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建德市"
           },
           {
@@ -14612,9 +10689,6 @@ export default [
               },
               {
                 "name": "鹿山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "富阳市"
@@ -14629,21 +10703,11 @@ export default [
               },
               {
                 "name": "锦城"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "临安市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -14803,9 +10867,6 @@ export default [
               },
               {
                 "name": "月湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "海曙区"
@@ -14928,9 +10989,6 @@ export default [
               },
               {
                 "name": "中山东路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "江东区"
@@ -15014,9 +11072,6 @@ export default [
               },
               {
                 "name": "双东坊"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "江北区"
@@ -15049,9 +11104,6 @@ export default [
               },
               {
                 "name": "戚家山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "北仑区"
@@ -15075,9 +11127,6 @@ export default [
               },
               {
                 "name": "镇海其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "镇海区"
@@ -15149,19 +11198,12 @@ export default [
               },
               {
                 "name": "万里学院"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "鄞州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "象山县"
           },
           {
@@ -15177,9 +11219,6 @@ export default [
               },
               {
                 "name": "桃源"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "宁海县"
@@ -15194,9 +11233,6 @@ export default [
               },
               {
                 "name": "东南"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "余姚市"
@@ -15211,9 +11247,6 @@ export default [
               },
               {
                 "name": "浒山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "慈溪市"
@@ -15231,21 +11264,11 @@ export default [
               },
               {
                 "name": "岳林"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "奉化市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -15312,9 +11335,6 @@ export default [
               },
               {
                 "name": "水心"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "鹿城区"
@@ -15353,9 +11373,6 @@ export default [
               },
               {
                 "name": "永兴"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "龙湾区"
@@ -15400,9 +11417,6 @@ export default [
               },
               {
                 "name": "梧田"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "瓯海区"
@@ -15417,9 +11431,6 @@ export default [
               },
               {
                 "name": "东屏"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "洞头县"
@@ -15449,9 +11460,6 @@ export default [
               },
               {
                 "name": "岩头"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "永嘉县"
@@ -15481,9 +11489,6 @@ export default [
               },
               {
                 "name": "南雁"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "平阳县"
@@ -15513,9 +11518,6 @@ export default [
               },
               {
                 "name": "宜山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "苍南县"
@@ -15527,9 +11529,6 @@ export default [
               },
               {
                 "name": "南田"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "文成县"
@@ -15544,9 +11543,6 @@ export default [
               },
               {
                 "name": "雅阳"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "泰顺县"
@@ -15591,9 +11587,6 @@ export default [
               },
               {
                 "name": "锦湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "瑞安市"
@@ -15650,32 +11643,18 @@ export default [
               },
               {
                 "name": "磐石"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "乐清市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "嘉兴市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秀城区"
           },
           {
@@ -15685,51 +11664,28 @@ export default [
               },
               {
                 "name": "高照"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "秀洲区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嘉善县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海盐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海宁市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平湖市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桐乡市"
           },
           {
@@ -15742,281 +11698,139 @@ export default [
               },
               {
                 "name": "东栅"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南湖区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "湖州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吴兴区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南浔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德清县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长兴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安吉县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "绍兴市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "越城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绍兴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "诸暨市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上虞市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嵊州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "金华市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "婺城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武义县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浦江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "磐安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兰溪市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "义乌市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东阳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永康市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "衢州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柯城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "衢江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "常山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "开化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙游县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江山市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -16050,9 +11864,6 @@ export default [
               },
               {
                 "name": "临城"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "定海区"
@@ -16085,9 +11896,6 @@ export default [
               },
               {
                 "name": "虾峙"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "普陀区"
@@ -16102,114 +11910,57 @@ export default [
               },
               {
                 "name": "衢山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "岱山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嵊泗县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "台州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "椒江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄岩区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "路桥区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玉环县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三门县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仙居县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "温岭市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临海市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -16276,85 +12027,43 @@ export default [
               },
               {
                 "name": "丽阳门"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "莲都区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青田县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "缙云县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "遂昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "松阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "庆元县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "景宁畲族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙泉市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -16495,9 +12204,6 @@ export default [
               },
               {
                 "name": "天长路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "瑶海区"
@@ -16632,9 +12338,6 @@ export default [
               },
               {
                 "name": "市府广场"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "庐阳区"
@@ -16790,9 +12493,6 @@ export default [
               },
               {
                 "name": "霍山路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "蜀山区"
@@ -16915,9 +12615,6 @@ export default [
               },
               {
                 "name": "世纪阳光花园"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "包河区"
@@ -16938,9 +12635,6 @@ export default [
               },
               {
                 "name": "水湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "长丰县"
@@ -16961,9 +12655,6 @@ export default [
               },
               {
                 "name": "龙塘"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "肥东县"
@@ -16984,1037 +12675,511 @@ export default [
               },
               {
                 "name": "三河"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "肥西县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "芜湖市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镜湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "马塘区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新芜区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鸠江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芜湖县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "繁昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "弋江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三山区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "蚌埠市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙子湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蚌山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "禹会区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "淮上区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "怀远县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "固镇县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "淮南市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大通区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "田家庵区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "谢家集区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "八公山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潘集区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤台县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "马鞍山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金家庄区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "花山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雨山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "当涂县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "淮北市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "杜集区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "相山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "烈山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "濉溪县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "铜陵市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铜官山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "狮子山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郊区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铜陵县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "安庆市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "迎江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大观区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郊区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "怀宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "枞阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潜山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太湖县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宿松县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "望江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岳西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桐城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜秀区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "黄山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "屯溪区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "徽州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "歙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "休宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黟县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "祁门县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "滁州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "琅琊区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南谯区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "来安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "全椒县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定远县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天长市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "明光市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阜阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "颍州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "颍东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "颍泉区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临泉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阜南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "颍上县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "界首市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "宿州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "埇桥区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "砀山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "萧县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灵璧县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泗县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "巢湖市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "居巢区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "庐江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "无为县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "含山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "六安市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "裕安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "寿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "霍邱县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "舒城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金寨县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "霍山县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "亳州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "谯城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涡阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蒙城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "利辛县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "池州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贵池区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东至县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青阳县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "宣城市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宣州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郎溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泾县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绩溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "旌德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁国市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -18221,9 +13386,6 @@ export default [
               },
               {
                 "name": "杨桥中路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "鼓楼区"
@@ -18376,9 +13538,6 @@ export default [
               },
               {
                 "name": "永升城"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "台江区"
@@ -18504,9 +13663,6 @@ export default [
               },
               {
                 "name": "附中"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "仓山区"
@@ -18524,9 +13680,6 @@ export default [
               },
               {
                 "name": "马尾其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "马尾区"
@@ -18667,85 +13820,43 @@ export default [
               },
               {
                 "name": "岳峰"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "晋安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "闽侯县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "连江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "罗源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "闽清县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永泰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平潭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "福清市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长乐市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -18854,9 +13965,6 @@ export default [
               },
               {
                 "name": "嘉莲"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "思明区"
@@ -18886,9 +13994,6 @@ export default [
               },
               {
                 "name": "沧林路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "海沧区"
@@ -18954,9 +14059,6 @@ export default [
               },
               {
                 "name": "金山小区"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "湖里区"
@@ -19007,9 +14109,6 @@ export default [
               },
               {
                 "name": "印斗路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "集美区"
@@ -19054,9 +14153,6 @@ export default [
               },
               {
                 "name": "城南路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "同安区"
@@ -19080,640 +14176,317 @@ export default [
               },
               {
                 "name": "内厝"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "翔安区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "莆田市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城厢区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涵江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荔城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秀屿区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仙游县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "三明市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梅列区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三元区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "明溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清流县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大田县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尤溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "将乐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泰宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永安市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "泉州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鲤城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰泽区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洛江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泉港区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "惠安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永春县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金门县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石狮市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "晋江市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南安市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "漳州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芗城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙文区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云霄县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "漳浦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "诏安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长泰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南靖县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙海市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "南平市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "延平区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "顺昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浦城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "光泽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "松溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "政和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邵武市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武夷山市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建瓯市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建阳市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "龙岩市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新罗区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长汀县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永定县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上杭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "连城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "漳平市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "宁德市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蕉城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "霞浦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "古田县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "屏南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "寿宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "周宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柘荣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "福安市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "福鼎市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -19824,9 +14597,6 @@ export default [
               },
               {
                 "name": "百花洲"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "东湖区"
@@ -19913,9 +14683,6 @@ export default [
               },
               {
                 "name": "十字街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "西湖区"
@@ -19957,9 +14724,6 @@ export default [
               },
               {
                 "name": "迎宾北大道"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "青云谱区"
@@ -19977,9 +14741,6 @@ export default [
               },
               {
                 "name": "太平"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "湾里区"
@@ -20057,9 +14818,6 @@ export default [
               },
               {
                 "name": "青山湖其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "青山湖区"
@@ -20083,9 +14841,6 @@ export default [
               },
               {
                 "name": "蒋巷"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南昌县"
@@ -20106,9 +14861,6 @@ export default [
               },
               {
                 "name": "溪霞"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "新建县"
@@ -20120,9 +14872,6 @@ export default [
               },
               {
                 "name": "龙津"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "安义县"
@@ -20137,119 +14886,59 @@ export default [
               },
               {
                 "name": "文港"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "进贤县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "景德镇市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "珠山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浮梁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乐平市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "萍乡市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安源区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "湘东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莲花县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上栗县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芦溪县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -20265,752 +14954,373 @@ export default [
               },
               {
                 "name": "七里湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "庐山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浔阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "九江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "修水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永修县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "星子县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "都昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "湖口县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "彭泽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "瑞昌市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "新余市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "渝水区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "分宜县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "鹰潭市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "月湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "余江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贵溪市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "赣州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "章贡区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "信丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大余县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上犹县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "崇义县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安远县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "全南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁都县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "于都县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴国县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "会昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "寻乌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "瑞金市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南康市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "吉安市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吉州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青原区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吉安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吉水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "峡江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新干县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泰和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "遂川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安福县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永新县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "井冈山市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "宜春市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "袁州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "奉新县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万载县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上高县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "靖安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铜鼓县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "樟树市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高安市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "抚州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临川区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黎川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "崇仁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乐安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜黄县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "资溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广昌县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "上饶市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "信州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上饶县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玉山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铅山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "横峰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "弋阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "余干县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鄱阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万年县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "婺源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德兴市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -21184,9 +15494,6 @@ export default [
               },
               {
                 "name": "历下其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "历下区"
@@ -21336,9 +15643,6 @@ export default [
               },
               {
                 "name": "东八里洼"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "市中区"
@@ -21458,9 +15762,6 @@ export default [
               },
               {
                 "name": "纬七路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "槐荫区"
@@ -21589,9 +15890,6 @@ export default [
               },
               {
                 "name": "火车站"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "天桥区"
@@ -21687,9 +15985,6 @@ export default [
               },
               {
                 "name": "二环东路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "历城区"
@@ -21710,53 +16005,27 @@ export default [
               },
               {
                 "name": "崮云湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "长清区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平阴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "济阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "商河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "章丘市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -21925,9 +16194,6 @@ export default [
               },
               {
                 "name": "江西路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "市南区"
@@ -22107,9 +16373,6 @@ export default [
               },
               {
                 "name": "延吉路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "市北区"
@@ -22289,9 +16552,6 @@ export default [
               },
               {
                 "name": "南宁路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "四方区"
@@ -22315,9 +16575,6 @@ export default [
               },
               {
                 "name": "黄岛其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "黄岛区"
@@ -22371,9 +16628,6 @@ export default [
               },
               {
                 "name": "王家村"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "崂山区"
@@ -22508,9 +16762,6 @@ export default [
               },
               {
                 "name": "沧口"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "李沧区"
@@ -22570,9 +16821,6 @@ export default [
               },
               {
                 "name": "杨埠寨"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "城阳区"
@@ -22593,9 +16841,6 @@ export default [
               },
               {
                 "name": "北关"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "胶州市"
@@ -22616,9 +16861,6 @@ export default [
               },
               {
                 "name": "潮海"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "即墨市"
@@ -22636,228 +16878,113 @@ export default [
               },
               {
                 "name": "城关"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "平度市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "胶南市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莱西市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "淄博市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "淄川区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "张店区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "博山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临淄区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "周村区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桓台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高青县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沂源县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "枣庄市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市中区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "薛城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "峄城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "台儿庄区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "山亭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "滕州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "东营市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东营区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "河口区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "垦利县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "利津县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广饶县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -22906,9 +17033,6 @@ export default [
               },
               {
                 "name": "芝罘其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "芝罘区"
@@ -22926,19 +17050,12 @@ export default [
               },
               {
                 "name": "清洋"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "福山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "牟平区"
           },
           {
@@ -22960,85 +17077,43 @@ export default [
               },
               {
                 "name": "清泉寨"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "莱山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长岛县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙口市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莱阳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莱州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蓬莱市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "招远市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "栖霞市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海阳市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -23057,9 +17132,6 @@ export default [
               },
               {
                 "name": "春鸢路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "潍城区"
@@ -23071,9 +17143,6 @@ export default [
               },
               {
                 "name": "寒亭其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "寒亭区"
@@ -23085,9 +17154,6 @@ export default [
               },
               {
                 "name": "恒安"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "坊子区"
@@ -23099,255 +17165,127 @@ export default [
               },
               {
                 "name": "奎文其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "奎文区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临朐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌乐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "诸城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "寿光市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安丘市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高密市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌邑市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "济宁市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市中区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "任城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "微山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鱼台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嘉祥县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汶上县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泗水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梁山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曲阜市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兖州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邹城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "泰安市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泰山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岱岳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新泰市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "肥城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -23375,9 +17313,6 @@ export default [
               },
               {
                 "name": "孙家疃"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "环翠区"
@@ -23389,9 +17324,6 @@ export default [
               },
               {
                 "name": "苘山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "文登市"
@@ -23415,9 +17347,6 @@ export default [
               },
               {
                 "name": "人和"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "荣成市"
@@ -23432,536 +17361,265 @@ export default [
               },
               {
                 "name": "海阳所"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "乳山市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "日照市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东港区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岚山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五莲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莒县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "莱芜市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莱城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "钢城区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "临沂市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兰山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "罗庄区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "河东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沂南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郯城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沂水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "苍山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "费县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平邑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莒南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蒙阴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临沭县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "德州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁津县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "庆云县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临邑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "齐河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平原县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "夏津县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乐陵市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "禹城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "聊城市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东昌府区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳谷县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "茌平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东阿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "冠县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高唐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临清市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "滨州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "滨城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "惠民县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳信县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "无棣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沾化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "博兴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邹平县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "荷泽市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "牡丹区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曹县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "单县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "成武县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巨野县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郓城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鄄城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定陶县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东明县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -24078,9 +17736,6 @@ export default [
               },
               {
                 "name": "陇海西路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "中原区"
@@ -24200,9 +17855,6 @@ export default [
               },
               {
                 "name": "齐礼阎"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "二七区"
@@ -24268,9 +17920,6 @@ export default [
               },
               {
                 "name": "五里堡"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "管城回族区"
@@ -24459,9 +18108,6 @@ export default [
               },
               {
                 "name": "防疫路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "金水区"
@@ -24479,9 +18125,6 @@ export default [
               },
               {
                 "name": "上街其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "上街区"
@@ -24508,1469 +18151,727 @@ export default [
               },
               {
                 "name": "迎宾路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "惠济区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "中牟县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巩义市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荥阳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新密市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新郑市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "登封市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "开封市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙亭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "顺河回族区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鼓楼区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南关区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郊区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "杞县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通许县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尉氏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "开封县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兰考县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市辖区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "洛阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "老城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西工区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "廛河回族区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涧西区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吉利区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洛龙区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "孟津县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "栾川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嵩县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汝阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洛宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "伊川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "偃师市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "平顶山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新华区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "卫东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石龙区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "湛河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宝丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "叶县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鲁山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "舞钢市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汝州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "安阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "文峰区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北关区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "殷都区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汤阴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "滑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "内黄县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "林州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "鹤壁市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鹤山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "山城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "淇滨区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浚县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "淇县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "新乡市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "红旗区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "卫滨区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤泉区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "牧野区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "获嘉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "原阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "延津县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "封丘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长垣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "卫辉市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "辉县市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "焦作市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "解放区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "中站区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "马村区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "山阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "修武县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "博爱县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武陟县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "温县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "济源市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沁阳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "孟州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "濮阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华龙区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南乐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "范县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "台前县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "濮阳县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "许昌市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "魏都区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "许昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鄢陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "襄城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "禹州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长葛市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "漯河市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "源汇区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郾城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "召陵区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "舞阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临颍县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "三门峡市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市辖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "湖滨区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "渑池县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陕县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "卢氏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "义马市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灵宝市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "南阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宛城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "卧龙区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南召县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "方城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西峡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "内乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "淅川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "社旗县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "唐河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新野县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桐柏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邓州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "商丘市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梁园区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "睢阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "民权县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "睢县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柘城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "虞城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "夏邑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "信阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浉河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平桥区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "罗山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "光山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "商城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "固始县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潢川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "淮滨县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "息县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "周口市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "川汇区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "扶沟县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西华县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "商水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沈丘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郸城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "淮阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太康县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鹿邑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "项城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "驻马店市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "驿城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上蔡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平舆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "正阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "确山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泌阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汝南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "遂平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新蔡县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -26039,9 +18940,6 @@ export default [
               },
               {
                 "name": "台北路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "江岸区"
@@ -26086,9 +18984,6 @@ export default [
               },
               {
                 "name": "江汉其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "江汉区"
@@ -26136,9 +19031,6 @@ export default [
               },
               {
                 "name": "宝丰"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "硚口区"
@@ -26183,9 +19075,6 @@ export default [
               },
               {
                 "name": "月湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "汉阳区"
@@ -26257,9 +19146,6 @@ export default [
               },
               {
                 "name": "武昌火车站"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "武昌区"
@@ -26307,9 +19193,6 @@ export default [
               },
               {
                 "name": "南干渠"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "青山区"
@@ -26357,9 +19240,6 @@ export default [
               },
               {
                 "name": "徐东"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "洪山区"
@@ -26401,9 +19281,6 @@ export default [
               },
               {
                 "name": "新沟"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "东西湖区"
@@ -26415,9 +19292,6 @@ export default [
               },
               {
                 "name": "纱帽"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "汉南区"
@@ -26435,9 +19309,6 @@ export default [
               },
               {
                 "name": "蔡甸"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "蔡甸区"
@@ -26452,9 +19323,6 @@ export default [
               },
               {
                 "name": "江夏其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "江夏区"
@@ -26472,9 +19340,6 @@ export default [
               },
               {
                 "name": "前川"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "黄陂区"
@@ -26495,276 +19360,137 @@ export default [
               },
               {
                 "name": "邾城"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "新洲区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "黄石市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄石港区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西塞山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "下陆区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铁山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳新县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大冶市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "十堰市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "茅箭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "张湾区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郧县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郧西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "竹山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "竹溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "房县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丹江口市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "宜昌市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西陵区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "伍家岗区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "点军区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "猇亭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "夷陵区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "远安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秭归县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长阳土家族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五峰土家族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜都市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "当阳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "枝江市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -26780,9 +19506,6 @@ export default [
               },
               {
                 "name": "闸口"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "襄城区"
@@ -26809,9 +19532,6 @@ export default [
               },
               {
                 "name": "火车站"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "樊城区"
@@ -26820,610 +19540,301 @@ export default [
             "children": [
               {
                 "name": "襄州"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "襄阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南漳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "谷城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "保康县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "老河口市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "枣阳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜城市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "鄂州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梁子湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华容区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鄂城区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "荆门市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东宝区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "掇刀区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "京山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沙洋县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "钟祥市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "孝感市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "孝南区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "孝昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大悟县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云梦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "应城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安陆市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汉川市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "荆州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沙市区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荆州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "公安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "监利县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石首市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洪湖市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "松滋市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "黄冈市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "团风县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "红安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "罗田县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "英山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浠水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蕲春县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄梅县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麻城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武穴市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "咸宁市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "咸安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嘉鱼县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "崇阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赤壁市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "随州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曾都区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广水市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "恩施土家族苗族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "恩施市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "利川市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建始县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宣恩县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "咸丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "来凤县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鹤峰县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "神农架",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仙桃市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潜江市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天门市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "神农架林区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -27564,9 +19975,6 @@ export default [
               },
               {
                 "name": "人民中路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "芙蓉区"
@@ -27683,9 +20091,6 @@ export default [
               },
               {
                 "name": "劳动广场"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "天心区"
@@ -27811,9 +20216,6 @@ export default [
               },
               {
                 "name": "湖南大学"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "岳麓区"
@@ -27963,9 +20365,6 @@ export default [
               },
               {
                 "name": "西长街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "开福区"
@@ -28112,1134 +20511,561 @@ export default [
               },
               {
                 "name": "砂子塘"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "雨花区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长沙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "望城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浏阳市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "株洲市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荷塘区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芦淞区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石峰区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天元区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "株洲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "攸县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "茶陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "炎陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "醴陵市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "湘潭市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雨湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岳塘区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "湘潭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "湘乡市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "韶山市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "衡阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "珠晖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雁峰区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石鼓区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蒸湘区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南岳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "衡阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "衡南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "衡山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "衡东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "祁东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "耒阳市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "常宁市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "邵阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双清区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大祥区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北塔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邵东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新邵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邵阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隆回县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洞口县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绥宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城步苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武冈市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "岳阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岳阳楼区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云溪区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "君山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岳阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华容县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "湘阴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汨罗市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临湘市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "常德市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武陵区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鼎城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汉寿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "澧县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临澧县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桃源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石门县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "津市市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "张家界市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永定区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武陵源区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "慈利县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桑植县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "益阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "资阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赫山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桃江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沅江市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "郴州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "苏仙区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桂阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜章县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永兴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嘉禾县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临武县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汝城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桂东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安仁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "资兴市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "永州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芝山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "冷水滩区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "祁阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双牌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "道县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江永县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁远县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蓝山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新田县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江华瑶族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "零陵区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "怀化市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鹤城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "中方县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沅陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "辰溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "溆浦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "会同县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麻阳苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新晃侗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芷江侗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "靖州苗族侗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通道侗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洪江市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "娄底市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "娄星区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双峰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "冷水江市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涟源市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "湘西土家族苗族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吉首市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泸溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤凰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "花垣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "保靖县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "古丈县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永顺县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙山县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -29251,11 +21077,7 @@ export default [
         "name": "广州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东山区"
           },
           {
@@ -29316,9 +21138,6 @@ export default [
               },
               {
                 "name": "中山六路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "荔湾区"
@@ -29426,9 +21245,6 @@ export default [
               },
               {
                 "name": "岭南"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "越秀区"
@@ -29506,9 +21322,6 @@ export default [
               },
               {
                 "name": "工业大道"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "海珠区"
@@ -29607,19 +21420,12 @@ export default [
               },
               {
                 "name": "沙东"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "天河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芳村区"
           },
           {
@@ -29698,9 +21504,6 @@ export default [
               },
               {
                 "name": "人和"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "白云区"
@@ -29736,9 +21539,6 @@ export default [
               },
               {
                 "name": "黄埔其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "黄埔区"
@@ -29810,9 +21610,6 @@ export default [
               },
               {
                 "name": "番禺其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "番禺区"
@@ -29848,9 +21645,6 @@ export default [
               },
               {
                 "name": "梯面"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "花都区"
@@ -29889,9 +21683,6 @@ export default [
               },
               {
                 "name": "沙庄"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "增城市"
@@ -29921,9 +21712,6 @@ export default [
               },
               {
                 "name": "吕田"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "从化市"
@@ -29938,9 +21726,6 @@ export default [
               },
               {
                 "name": "萝岗其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "萝岗区"
@@ -29958,114 +21743,57 @@ export default [
               },
               {
                 "name": "万顷沙"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南沙区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "韶关市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浈江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曲江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "始兴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仁化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "翁源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乳源瑶族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乐昌市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南雄市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -30153,9 +21881,6 @@ export default [
               },
               {
                 "name": "翠竹"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "罗湖区"
@@ -30266,9 +21991,6 @@ export default [
               },
               {
                 "name": "华强北"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "福田区"
@@ -30328,9 +22050,6 @@ export default [
               },
               {
                 "name": "深圳湾"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南山区"
@@ -30384,9 +22103,6 @@ export default [
               },
               {
                 "name": "宝安其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "宝安区"
@@ -30428,9 +22144,6 @@ export default [
               },
               {
                 "name": "龙岗其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "龙岗区"
@@ -30448,21 +22161,11 @@ export default [
               },
               {
                 "name": "沙头角"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "盐田区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -30625,9 +22328,6 @@ export default [
               },
               {
                 "name": "人民西路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "香洲区"
@@ -30645,9 +22345,6 @@ export default [
               },
               {
                 "name": "白蕉"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "斗门区"
@@ -30665,90 +22362,45 @@ export default [
               },
               {
                 "name": "金湾其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "金湾区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "汕头市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金平区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "濠江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潮阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潮南区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "澄海区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南澳县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -30776,9 +22428,6 @@ export default [
               },
               {
                 "name": "汾江南路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "禅城区"
@@ -30805,9 +22454,6 @@ export default [
               },
               {
                 "name": "丹灶"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南海区"
@@ -30849,9 +22495,6 @@ export default [
               },
               {
                 "name": "顺德其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "顺德区"
@@ -30869,9 +22512,6 @@ export default [
               },
               {
                 "name": "白坭"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "三水区"
@@ -30889,454 +22529,226 @@ export default [
               },
               {
                 "name": "高明其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "高明区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "江门市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蓬江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江海区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新会区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "台山市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "开平市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鹤山市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "恩平市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "湛江市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赤坎区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "霞山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "坡头区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麻章区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "遂溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "徐闻县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "廉江市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雷州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吴川市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "茂名市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "茂南区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "茂港区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "电白县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "化州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "信宜市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "肇庆市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "端州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鼎湖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "怀集县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "封开县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德庆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高要市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "四会市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "惠州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "惠城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "惠阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "博罗县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "惠东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙门县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "梅州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梅江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梅县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大埔县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰顺县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五华县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平远县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蕉岭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴宁市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "汕尾市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城区"
           },
           {
@@ -31349,19 +22761,12 @@ export default [
               },
               {
                 "name": "附城"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "海丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陆河县"
           },
           {
@@ -31377,9 +22782,6 @@ export default [
               },
               {
                 "name": "河东"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "陆丰市"
@@ -31397,581 +22799,287 @@ export default [
               },
               {
                 "name": "凤山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "汕尾城区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "河源市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "源城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "紫金县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "连平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东源县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阳江市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳春市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "清远市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "佛冈县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "连山壮族瑶族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "连南瑶族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清新县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "英德市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "连州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "东莞市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "樟木头镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "塘厦镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市辖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤岗镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大朗镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长安镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "虎门镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石龙镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄江镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "常平镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大岭山镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "厚街镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桥头镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "横沥镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清溪镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "中堂镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石碣镇"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "中山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "小榄镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市辖区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三乡镇"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石岐区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "坦洲镇"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "潮州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "湘桥区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潮安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "饶平县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "揭阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "榕城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "揭东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "揭西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "惠来县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "普宁市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "云浮市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新兴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "郁南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "罗定市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -32019,9 +23127,6 @@ export default [
               },
               {
                 "name": "民族商场"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "兴宁区"
@@ -32093,9 +23198,6 @@ export default [
               },
               {
                 "name": "五象广场"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "青秀区"
@@ -32149,9 +23251,6 @@ export default [
               },
               {
                 "name": "福建园"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "江南区"
@@ -32229,9 +23328,6 @@ export default [
               },
               {
                 "name": "石埠"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "西乡塘区"
@@ -32246,9 +23342,6 @@ export default [
               },
               {
                 "name": "良庆"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "良庆区"
@@ -32260,576 +23353,285 @@ export default [
               },
               {
                 "name": "蒲庙"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "邕宁区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武鸣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隆安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "马山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上林县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宾阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "横县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "柳州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城中区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鱼峰区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柳南区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柳北区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柳江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柳城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鹿寨县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "融安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "融水苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三江侗族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "桂林市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秀峰区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "叠彩区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "象山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "七星区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雁山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阳朔县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临桂县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灵川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "全州县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永福县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灌阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙胜各族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "资源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平乐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荔蒲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "恭城瑶族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荔浦县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "梧州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万秀区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蝶山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长洲区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "苍梧县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "藤县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蒙山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岑溪市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "北海市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "银海区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铁山港区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "合浦县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "防城港市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "港口区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "防城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "上思县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东兴市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "钦州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "钦南区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "钦北区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灵山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浦北县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "贵港市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "港北区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "港南区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "覃塘区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桂平市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
@@ -32851,446 +23653,221 @@ export default [
               },
               {
                 "name": "城北"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "玉州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "容县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陆川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "博白县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴业县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北流市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "百色市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "右江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "田阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "田东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平果县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德保县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "靖西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "那坡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凌云县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乐业县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "田林县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西林县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隆林各族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "贺州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "八步区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昭平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "钟山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富川瑶族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "河池市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金城江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南丹县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天峨县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东兰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "罗城仫佬族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "环江毛南族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴马瑶族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "都安瑶族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大化瑶族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜州市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "来宾市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴宾区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "忻城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "象州县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武宣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金秀瑶族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "合山市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "崇左市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江洲区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "扶绥县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁明县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙州县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大新县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天等县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凭祥市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -33302,11 +23879,7 @@ export default [
         "name": "海口市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秀英区"
           },
           {
@@ -33334,9 +23907,6 @@ export default [
               },
               {
                 "name": "海垦"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "龙华区"
@@ -33351,9 +23921,6 @@ export default [
               },
               {
                 "name": "琼山其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "琼山区"
@@ -33386,184 +23953,94 @@ export default [
               },
               {
                 "name": "白龙"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "美兰区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "三亚市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五指山市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "琼海市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "儋州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "文昌市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万宁市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东方市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "屯昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "澄迈县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临高县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "白沙黎族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌江黎族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乐东黎族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陵水黎族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "保亭黎族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "琼中黎族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西沙群岛"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南沙群岛"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "中沙群岛的岛礁及其海域"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市辖区"
           },
           {
@@ -33576,21 +24053,11 @@ export default [
               },
               {
                 "name": "大东海"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "三亚市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -33650,9 +24117,6 @@ export default [
               },
               {
                 "name": "陈家坝"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "万州区"
@@ -33691,9 +24155,6 @@ export default [
               },
               {
                 "name": "涪陵其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "涪陵区"
@@ -33744,9 +24205,6 @@ export default [
               },
               {
                 "name": "渝中其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "渝中区"
@@ -33779,9 +24237,6 @@ export default [
               },
               {
                 "name": "春晖路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "大渡口区"
@@ -33817,9 +24272,6 @@ export default [
               },
               {
                 "name": "华新街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "江北区"
@@ -33894,9 +24346,6 @@ export default [
               },
               {
                 "name": "虎溪"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "沙坪坝区"
@@ -33956,9 +24405,6 @@ export default [
               },
               {
                 "name": "高新区"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "九龙坡区"
@@ -34006,9 +24452,6 @@ export default [
               },
               {
                 "name": "海棠溪"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南岸区"
@@ -34044,9 +24487,6 @@ export default [
               },
               {
                 "name": "东阳"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "北碚区"
@@ -34064,9 +24504,6 @@ export default [
               },
               {
                 "name": "万东"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "万盛区"
@@ -34081,9 +24518,6 @@ export default [
               },
               {
                 "name": "双桥其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "双桥区"
@@ -34137,9 +24571,6 @@ export default [
               },
               {
                 "name": "黄泥塝"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "渝北区"
@@ -34169,9 +24600,6 @@ export default [
               },
               {
                 "name": "巴南其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "巴南区"
@@ -34195,9 +24623,6 @@ export default [
               },
               {
                 "name": "联合"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "黔江区"
@@ -34227,253 +24652,127 @@ export default [
               },
               {
                 "name": "长寿湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "长寿区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "綦江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潼南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铜梁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大足县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荣昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "璧山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梁平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城口县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丰都县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "垫江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武隆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "忠县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "开县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "奉节县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巫山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巫溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石柱土家族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秀山土家族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "酉阳土家族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "彭水苗族土家族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江津市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "合川市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永川市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南川市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "彭水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南川区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江津区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永川区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -34545,9 +24844,6 @@ export default [
               },
               {
                 "name": "龙舟路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "锦江区"
@@ -34610,9 +24906,6 @@ export default [
               },
               {
                 "name": "府南"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "青羊区"
@@ -34681,9 +24974,6 @@ export default [
               },
               {
                 "name": "蜀汉路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "金牛区"
@@ -34755,9 +25045,6 @@ export default [
               },
               {
                 "name": "簇桥"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "武侯区"
@@ -34808,9 +25095,6 @@ export default [
               },
               {
                 "name": "双林路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "成华区"
@@ -34834,9 +25118,6 @@ export default [
               },
               {
                 "name": "龙泉驿其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "龙泉驿区"
@@ -34851,9 +25132,6 @@ export default [
               },
               {
                 "name": "红阳"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "青白江区"
@@ -34886,9 +25164,6 @@ export default [
               },
               {
                 "name": "新都其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "新都区"
@@ -34921,9 +25196,6 @@ export default [
               },
               {
                 "name": "金马"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "温江区"
@@ -34938,9 +25210,6 @@ export default [
               },
               {
                 "name": "赵镇"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "金堂县"
@@ -35012,9 +25281,6 @@ export default [
               },
               {
                 "name": "华阳"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "双流县"
@@ -35053,9 +25319,6 @@ export default [
               },
               {
                 "name": "友爱"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "郫县"
@@ -35082,9 +25345,6 @@ export default [
               },
               {
                 "name": "花水湾"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "大邑县"
@@ -35099,9 +25359,6 @@ export default [
               },
               {
                 "name": "成佳"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "蒲江县"
@@ -35119,9 +25376,6 @@ export default [
               },
               {
                 "name": "邓双"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "新津县"
@@ -35160,9 +25414,6 @@ export default [
               },
               {
                 "name": "玉堂"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "都江堰市"
@@ -35189,9 +25440,6 @@ export default [
               },
               {
                 "name": "龙门山"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "彭州市"
@@ -35221,9 +25469,6 @@ export default [
               },
               {
                 "name": "平乐"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "邛崃市"
@@ -35241,1585 +25486,783 @@ export default [
               },
               {
                 "name": "万家"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "崇州市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高新区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "自贡市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "自流井区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贡井区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沿滩区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富顺县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "攀枝花市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仁和区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "米易县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盐边县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "泸州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "纳溪区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙马潭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泸县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "合江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "叙永县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "古蔺县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "德阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "旌阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "中江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "罗江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广汉市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "什邡市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绵竹市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "绵阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "涪城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "游仙区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盐亭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梓潼县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北川羌族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平武县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江油市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "广元市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市中区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "元坝区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "朝天区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "旺苍县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "剑阁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "苍溪县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "遂宁市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "船山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安居区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蓬溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "射洪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大英县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "内江市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市中区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东兴区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "威远县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "资中县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隆昌县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "乐山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市中区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沙湾区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "五通桥区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金口河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "犍为县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "井研县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "夹江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沐川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "峨边彝族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "马边彝族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "峨眉山市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "南充市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "顺庆区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高坪区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嘉陵区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南部县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "营山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蓬安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仪陇县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西充县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阆中市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "眉山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东坡区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仁寿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "彭山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洪雅县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丹棱县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青神县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "宜宾市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "翠屏区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜宾县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南溪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "珙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "筠连县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴文县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "屏山县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "广安市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广安区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岳池县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武胜县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "邻水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华蓥市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "达州市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通川区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "达县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宣汉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "开江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大竹县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "渠县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万源市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "雅安市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雨城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "名山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荥经县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汉源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石棉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天全县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芦山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宝兴县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "巴中市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平昌县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "资阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雁江区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安岳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乐至县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "简阳市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阿坝藏族羌族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汶川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "理县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "茂县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "松潘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "九寨沟县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "小金县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黑水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "马尔康县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "壤塘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿坝县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "若尔盖县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "红原县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "甘孜藏族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "康定县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泸定县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丹巴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "九龙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雅江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "道孚县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "炉霍县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "甘孜县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新龙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德格县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "白玉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石渠县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "色达县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "理塘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴塘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乡城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "稻城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "得荣县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "凉山彝族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西昌市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "木里藏族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盐源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "会理县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "会东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "普格县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "布拖县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昭觉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "喜德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "冕宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "越西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "甘洛县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "美姑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雷波县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -36903,9 +26346,6 @@ export default [
               },
               {
                 "name": "油榨街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "南明区"
@@ -37025,9 +26465,6 @@ export default [
               },
               {
                 "name": "宅吉"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "云岩区"
@@ -37039,9 +26476,6 @@ export default [
               },
               {
                 "name": "花溪其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "花溪区"
@@ -37056,9 +26490,6 @@ export default [
               },
               {
                 "name": "金华"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "乌当区"
@@ -37079,9 +26510,6 @@ export default [
               },
               {
                 "name": "大山洞"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "白云区"
@@ -37105,9 +26533,6 @@ export default [
               },
               {
                 "name": "漓江路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "小河区"
@@ -37119,9 +26544,6 @@ export default [
               },
               {
                 "name": "城关"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "开阳县"
@@ -37133,19 +26555,12 @@ export default [
               },
               {
                 "name": "温泉"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "息烽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "修文县"
           },
           {
@@ -37158,749 +26573,371 @@ export default [
               },
               {
                 "name": "红枫湖"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "清镇市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "六盘水市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "钟山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "六枝特区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "水城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盘县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "遵义市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "红花岗区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汇川区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "遵义县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桐梓县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绥阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "正安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "道真仡佬族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "务川仡佬族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤冈县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "湄潭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "余庆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "习水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赤水市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仁怀市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "安顺市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西秀区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平坝县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "普定县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇宁布依族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "关岭布依族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "紫云苗族布依族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "铜仁地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "铜仁市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江口县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玉屏侗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石阡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "思南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "印江土家族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沿河土家族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "松桃苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "万山特区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "黔西南布依族苗族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴义市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴仁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "普安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "晴隆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贞丰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "望谟县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "册亨县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安龙县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "毕节地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "毕节市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大方县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黔西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金沙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "织金县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "纳雍县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "威宁彝族回族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "赫章县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "黔东南苗族侗族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凯里市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "施秉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三穗县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇远县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岑巩县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天柱县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "锦屏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "剑河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "台江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黎平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "榕江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "从江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "雷山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麻江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丹寨县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "黔南布依族苗族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "都匀市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "福泉市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "荔波县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贵定县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "瓮安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "独山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平塘县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "罗甸县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长顺县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙里县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "惠水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三都水族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -38032,9 +27069,6 @@ export default [
               },
               {
                 "name": "昆瑞路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "五华区"
@@ -38118,9 +27152,6 @@ export default [
               },
               {
                 "name": "白云路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "盘龙区"
@@ -38183,9 +27214,6 @@ export default [
               },
               {
                 "name": "和平村"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "官渡区"
@@ -38299,9 +27327,6 @@ export default [
               },
               {
                 "name": "西山其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "西山区"
@@ -38313,27 +27338,16 @@ export default [
               },
               {
                 "name": "东川其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "东川区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "呈贡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "晋宁县"
           },
           {
@@ -38343,9 +27357,6 @@ export default [
               },
               {
                 "name": "永定"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "富民县"
@@ -38357,19 +27368,12 @@ export default [
               },
               {
                 "name": "汤池"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "宜良县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石林彝族自治县"
           },
           {
@@ -38379,27 +27383,16 @@ export default [
               },
               {
                 "name": "嵩阳"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "嵩明县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "禄劝彝族苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "寻甸回族彝族自治县"
           },
           {
@@ -38412,1152 +27405,569 @@ export default [
               },
               {
                 "name": "青龙"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "安宁市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "曲靖市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麒麟区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "马龙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陆良县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "师宗县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "罗平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "会泽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沾益县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宣威市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "玉溪市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "红塔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "澄江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通海县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "易门县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "峨山彝族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新平彝族傣族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "元江哈尼族彝族傣族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "元江县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "保山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隆阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "施甸县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "腾冲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "龙陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌宁县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "昭通市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昭阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鲁甸县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巧家县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盐津县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大关县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永善县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绥江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇雄县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "彝良县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "威信县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "水富县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "丽江市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "古城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玉龙纳西族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永胜县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华坪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁蒗彝族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "思茅市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "翠云区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "普洱哈尼族彝族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "墨江哈尼族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "景东彝族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "景谷傣族彝族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇沅彝族哈尼族拉祜族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江城哈尼族彝族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "孟连傣族拉祜族佤族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "澜沧拉祜族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西盟佤族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "临沧市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临翔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤庆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇康县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双江拉祜族佤族布朗族傣族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "耿马傣族佤族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沧源佤族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双江县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "楚雄彝族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "楚雄市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "双柏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "牟定县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南华县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "姚安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大姚县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永仁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "元谋县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武定县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "禄丰县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "红河哈尼族彝族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "个旧市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "开远市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蒙自县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "屏边苗族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "建水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石屏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "弥勒县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泸西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "元阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "红河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金平苗族瑶族傣族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绿春县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "河口瑶族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "文山壮族苗族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "文山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "砚山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西畴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麻栗坡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "马关县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丘北县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富宁县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "西双版纳傣族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "景洪市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "勐海县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "勐腊县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "大理白族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大理市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "漾濞彝族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "祥云县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宾川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "弥渡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南涧彝族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巍山彝族回族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "云龙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洱源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "剑川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鹤庆县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "德宏傣族景颇族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "瑞丽市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潞西市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "梁河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盈江县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陇川县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "怒江傈僳族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泸水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "福贡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贡山独龙族怒族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兰坪白族普米族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "迪庆藏族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "香格里拉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德钦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "维西傈僳族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -39584,675 +27994,335 @@ export default [
               },
               {
                 "name": "冲赛康"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "城关区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "林周县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "当雄县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尼木县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曲水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "堆龙德庆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "达孜县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "墨竹工卡县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "昌都地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌都县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江达县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贡觉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "类乌齐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丁青县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "察雅县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "八宿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "左贡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "芒康县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洛隆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "边坝县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "山南地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乃东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "扎囊县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贡嘎县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "桑日县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "琼结县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曲松县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "措美县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洛扎县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "加查县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隆子县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "错那县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "浪卡子县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "日喀则地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "日喀则市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南木林县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "江孜县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定日县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "萨迦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "拉孜县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昂仁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "谢通门县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "白朗县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仁布县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "康马县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定结县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "仲巴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "亚东县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吉隆县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "聂拉木县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "萨嘎县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岗巴县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "那曲地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "那曲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "嘉黎县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "比如县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "聂荣县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安多县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "申扎县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "索县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "班戈县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴青县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尼玛县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阿里地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "普兰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "札达县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "噶尔县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "日土县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "革吉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "改则县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "措勤县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "林芝地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "林芝县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "工布江达县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "米林县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "墨脱县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "波密县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "察隅县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "朗县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -40330,9 +28400,6 @@ export default [
               },
               {
                 "name": "东五路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "新城区"
@@ -40428,9 +28495,6 @@ export default [
               },
               {
                 "name": "太乙路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "碑林区"
@@ -40517,9 +28581,6 @@ export default [
               },
               {
                 "name": "青年路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "莲湖区"
@@ -40540,9 +28601,6 @@ export default [
               },
               {
                 "name": "灞桥其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "灞桥区"
@@ -40593,9 +28651,6 @@ export default [
               },
               {
                 "name": "雅荷花园"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "未央区"
@@ -40697,9 +28752,6 @@ export default [
               },
               {
                 "name": "沣惠南路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "雁塔区"
@@ -40717,9 +28769,6 @@ export default [
               },
               {
                 "name": "阎良其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "阎良区"
@@ -40737,9 +28786,6 @@ export default [
               },
               {
                 "name": "临潼其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "临潼区"
@@ -40772,9 +28818,6 @@ export default [
               },
               {
                 "name": "马王"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "长安区"
@@ -40786,930 +28829,461 @@ export default [
               },
               {
                 "name": "汤峪"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "蓝田县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "周至县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "户县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高陵县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "铜川市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "王益区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "印台区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "耀州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜君县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "宝鸡市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "渭滨区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金台区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陈仓区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤翔县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岐山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "扶风县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "眉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陇县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "千阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麟游县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凤县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "太白县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "咸阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秦都区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "杨凌区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "渭城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "三原县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泾阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乾县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "礼泉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永寿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "彬县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "长武县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "旬邑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "淳化县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武功县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴平市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "杨陵区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "渭南市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临渭区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "潼关县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大荔县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "合阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "澄城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "蒲城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "白水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富平县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "韩城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华阴市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "延安市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宝塔区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "延长县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "延川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "子长县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安塞县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "志丹县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吴旗县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "甘泉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洛川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宜川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄龙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "黄陵县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吴起县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "汉中市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汉台区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "南郑县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "城固县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洋县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西乡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "勉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁强县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "略阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇巴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "留坝县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "佛坪县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "榆林市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "榆阳区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "神木县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "府谷县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "横山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "靖边县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "定边县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "绥德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "米脂县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "佳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吴堡县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清涧县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "子洲县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "安康市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汉滨区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "汉阴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "石泉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁陕县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "紫阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岚皋县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平利县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇坪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "旬阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "白河县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "商洛市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "商州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洛南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "丹凤县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "商南县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "山阳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柞水县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -41865,9 +29439,6 @@ export default [
               },
               {
                 "name": "科技街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "城关区"
@@ -41927,9 +29498,6 @@ export default [
               },
               {
                 "name": "西站"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "七里河区"
@@ -41956,9 +29524,6 @@ export default [
               },
               {
                 "name": "先锋路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "西固区"
@@ -41988,9 +29553,6 @@ export default [
               },
               {
                 "name": "北滨河中路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "安宁区"
@@ -42002,862 +29564,425 @@ export default [
               },
               {
                 "name": "红古其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "红古区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永登县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "皋兰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "榆中县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "嘉峪关市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "市辖区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "金昌市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金川区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永昌县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "白银市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "白银区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平川区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "靖远县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "会宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "景泰县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "天水市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秦城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "北道区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "清水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秦安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "甘谷县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "张家川回族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "秦州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麦积区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "武威市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "凉州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "民勤县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "古浪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天祝藏族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "张掖市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "甘州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "肃南裕固族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "民乐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临泽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "高台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "山丹县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "平凉市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "崆峒区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泾川县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灵台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "崇信县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华亭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "庄浪县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "静宁县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "酒泉市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "肃州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "金塔县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "肃北蒙古族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿克塞哈萨克族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玉门市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "敦煌市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "庆阳市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西峰区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "庆城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "环县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "华池县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "合水县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "正宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "镇原县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "定西市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "安定区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "通渭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "陇西县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "渭源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临洮县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "漳县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岷县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "陇南市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "武都区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "成县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "文县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "宕昌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "康县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "礼县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "徽县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "两当县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "临夏回族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临夏市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临夏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "康乐县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "永靖县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "广河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和政县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东乡族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "积石山保安族东乡族撒拉族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "甘南藏族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "合作市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "临潭县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "卓尼县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "舟曲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "迭部县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玛曲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "碌曲县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "夏河县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -42887,9 +30012,6 @@ export default [
               },
               {
                 "name": "东关大街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "城东区"
@@ -42910,9 +30032,6 @@ export default [
               },
               {
                 "name": "人民街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "城中区"
@@ -42936,9 +30055,6 @@ export default [
               },
               {
                 "name": "胜利路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "城西区"
@@ -42956,19 +30072,12 @@ export default [
               },
               {
                 "name": "三其"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "城北区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大通回族土族自治县"
           },
           {
@@ -42978,9 +30087,6 @@ export default [
               },
               {
                 "name": "总寨"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "湟中县"
@@ -42998,400 +30104,197 @@ export default [
               },
               {
                 "name": "东峡"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "湟源县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "海东地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平安县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "民和回族土族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乐都县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "互助土族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "化隆回族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "循化撒拉族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "海北藏族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "门源回族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "祁连县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海晏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "刚察县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "黄南藏族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "同仁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尖扎县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泽库县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "河南蒙古族自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "海南藏族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "共和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "同德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贵德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "兴海县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贵南县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "果洛藏族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玛沁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "班玛县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "甘德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "达日县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "久治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玛多县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "玉树藏族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玉树县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "杂多县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "称多县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "治多县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "囊谦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "曲麻莱县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "海西蒙古族藏族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "格尔木市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "德令哈市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌兰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "都兰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "天峻县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -43430,9 +30333,6 @@ export default [
               },
               {
                 "name": "中山南街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "兴庆区"
@@ -43450,9 +30350,6 @@ export default [
               },
               {
                 "name": "文昌路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "西夏区"
@@ -43464,9 +30361,6 @@ export default [
               },
               {
                 "name": "金凤其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "金凤区"
@@ -43478,209 +30372,103 @@ export default [
               },
               {
                 "name": "望远"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "永宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "贺兰县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "灵武市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "石嘴山市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "大武口区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "惠农区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "平罗县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "吴忠市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "利通区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "盐池县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "同心县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青铜峡市"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "固原市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "原州区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "西吉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "隆德县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泾源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "彭阳县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "中卫市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沙坡头区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "中宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "海原县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -43740,9 +30528,6 @@ export default [
               },
               {
                 "name": "解放南路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "天山区"
@@ -43784,9 +30569,6 @@ export default [
               },
               {
                 "name": "炉院街"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "沙依巴克区"
@@ -43831,9 +30613,6 @@ export default [
               },
               {
                 "name": "新市其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "新市区"
@@ -43863,9 +30642,6 @@ export default [
               },
               {
                 "name": "新民路"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "水磨沟区"
@@ -43883,35 +30659,20 @@ export default [
               },
               {
                 "name": "头屯河其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "头屯河区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "达坂城区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "东山区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌鲁木齐县"
           },
           {
@@ -43927,938 +30688,461 @@ export default [
               },
               {
                 "name": "米东其他"
-              },
-              {
-                "name": "其他"
               }
             ],
             "name": "米东区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "克拉玛依市",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "独山子区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "克拉玛依区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "白碱滩区"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌尔禾区"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "吐鲁番地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吐鲁番市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "鄯善县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "托克逊县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "哈密地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "哈密市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴里坤哈萨克自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "伊吾县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "昌吉回族自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昌吉市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阜康市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "米泉市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "呼图壁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "玛纳斯县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "奇台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吉木萨尔县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "木垒哈萨克自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "博尔塔拉蒙古自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "博乐市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "精河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "温泉县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "巴音郭楞蒙古自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "库尔勒市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "轮台县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尉犁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "若羌县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "且末县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "焉耆回族自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和静县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和硕县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "博湖县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阿克苏地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿克苏市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "温宿县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "库车县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沙雅县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新和县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "拜城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌什县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿瓦提县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "柯坪县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "克孜勒苏柯尔克孜自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿图什市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿克陶县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿合奇县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌恰县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "喀什地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "喀什市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "疏附县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "疏勒县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "英吉沙县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "泽普县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "莎车县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "叶城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "麦盖提县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "岳普湖县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "伽师县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巴楚县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "塔什库尔干塔吉克自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "和田地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和田市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和田县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "墨玉县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "皮山县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "洛浦县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "策勒县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "于田县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "民丰县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "伊犁哈萨克自治州",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "伊宁市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "奎屯市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "伊宁县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "察布查尔锡伯自治县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "霍城县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "巩留县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "新源县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "昭苏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "特克斯县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "尼勒克县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "塔城地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "塔城市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "乌苏市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "额敏县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "沙湾县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "托里县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "裕民县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "和布克赛尔蒙古自治县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阿勒泰地区",
         "children": [
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "阿勒泰市"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "布尔津县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "富蕴县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "福海县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "哈巴河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "青河县"
           },
           {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
+            
             "name": "吉木乃县"
           },
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "石河子市",
         "children": [
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "阿拉尔市",
         "children": [
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "图木舒克市",
         "children": [
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       },
       {
         "name": "五家渠市",
         "children": [
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -44869,14 +31153,7 @@ export default [
       {
         "name": "香港特别行政区",
         "children": [
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -44887,14 +31164,7 @@ export default [
       {
         "name": "澳门特别行政区",
         "children": [
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
@@ -44905,14 +31175,7 @@ export default [
       {
         "name": "台湾省",
         "children": [
-          {
-            "children": [
-              {
-                "name": "其他"
-              }
-            ],
-            "name": "其他"
-          }
+          
         ]
       }
     ],
