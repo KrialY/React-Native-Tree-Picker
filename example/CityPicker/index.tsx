@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
-import { CountryPicker } from '../../src/components'
+import { CityPicker } from '../../src/components'
 
 export default function Example() {
   const onSelected = (path: any) => {
@@ -10,9 +10,9 @@ export default function Example() {
   return (
     <>
       <View style={styles.line}>
-        <Text>CountryPicker👇:</Text>
+        <Text>CityPicker👇:</Text>
       </View>
-      <CountryPicker onSelected={onSelected} />
+      <CityPicker defaultSelected={"乐清市"} onSelected={onSelected} />
     </>
   )
 }

@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { TouchableOpacity, Text, StyleSheet, View } from 'react-native';
-import { ModalCountryPicker } from '../../src/components'
+import { ModalCityPicker } from '../../src/components'
 
 export default function Example() {
   const ref: any = useRef(null);
@@ -20,7 +20,7 @@ export default function Example() {
       <TouchableOpacity onPress={showPicker}>
         <Text>Show ModalCountryPicker</Text>
       </TouchableOpacity>
-      <ModalCountryPicker ref={ref} onSelected={onSelected} />
+      <ModalCityPicker ref={ref} onSelected={onSelected} />
     </>
   )
 }

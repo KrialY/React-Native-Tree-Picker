@@ -7,38 +7,55 @@ const struct = {
   valkey: 'name',
   childrenKey: 'children'
 };
+
+/**
+ * @param defaultSelected 中国省市的名称，例如：浙江省，上海市等
+ */
 interface Props {
   onSelected?: (path: Array<Object>) => void;
   columeOfNum?: number;
   level?: number;
+  defaultSelected?: string;
 }
-export default function CountryPicker ({ onSelected, columeOfNum, level }: Props){
+export default function CityPicker ({ onSelected, columeOfNum, level, defaultSelected }: Props){
   return (
-    <Tree struct={struct} columeOfNum={columeOfNum} onSelected={onSelected} level={level} structData={countryData as any}  />
+    <Tree struct={struct} defaultSelected={defaultSelected} columeOfNum={columeOfNum} onSelected={onSelected} level={level} structData={countryData as any}  />
   )
 }
 
 type Place = 'top' | 'center' | 'bottom';
 interface ModalProps {
   place?: Place;
+  columeOfNum?: number;
+  level?: number;
 }
-let ModalCountryPicker: any = ({place = 'bottom'}: ModalProps, ref: any) => {
+let ModalCityPicker: any = ({place = 'bottom'}: ModalProps, ref: any) => {
   const [isShow, setShow] = useState(false);
+  const [status, setStatus] = useState([]);
+  let tempPath = [];
 
   const positionMap: any = {
     bottom: 'flex-end',
     center: 'center',
     top: 'flex-start'
   }
-  const onSelected = (path: any) => {
+  const onSelected = (path: Array<any>) => {
     console.log(path, 'modal path');
+    tempPath = path;
   }
 
+  console.log("country render");
+  
   useImperativeHandle(ref, () => ({
     show: () => {
       setShow(true);
     }
   }));
+
+  const onCancel = () => {
+    console.log("cancle");
+  }
+
   return (
     <Modal
       animationType="slide"
@@ -49,25 +66,25 @@ let ModalCountryPicker: any = ({place = 'bottom'}: ModalProps, ref: any) => {
         <View style={styles.positionWrapper}>
           <View style={styles.optionWrapper}>
             <TouchableOpacity style={styles.textWrapper} onPress={() => {
-              setShow(false);
+              setShow(!isShow);
             }}>
               <Text style={styles.optionTextStyle}>确认</Text>
             </TouchableOpacity>
             <TouchableOpacity  style={styles.textWrapper} onPress={() => {
-              setShow(false);
+              setShow(!isShow);
             }}>
               <Text style={styles.optionTextStyle}>取消</Text>
             </TouchableOpacity>
           </View>
-          <CountryPicker columeOfNum={1} onSelected={onSelected} />
+          <CityPicker columeOfNum={1} onSelected={onSelected} />
         </View>
       </View>
     </Modal>
   )
 }
 
-ModalCountryPicker = forwardRef(ModalCountryPicker);
-export { ModalCountryPicker }
+ModalCityPicker = forwardRef(ModalCityPicker);
+export { ModalCityPicker }
 
 const styles = StyleSheet.create({
   modalWrapper: {

@@ -1,9 +1,9 @@
 import { Tree, UnLinkTree } from './Base';
-import CountryPicker, { ModalCountryPicker } from './CountryPicker';
+import CityPicker, { ModalCityPicker } from './CityPicker';
 
 export {
   Tree,
   UnLinkTree,
-  CountryPicker,
-  ModalCountryPicker
+  CityPicker,
+  ModalCityPicker
 }

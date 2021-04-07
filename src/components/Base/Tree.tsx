@@ -33,6 +33,10 @@ const findPath = (structData: any, key: string, valkey: string, uniqueKey: strin
       pathObj.pop();
     }
   }
+  // 如果整棵N叉树查找完成之后没有结果，则返回树的第一个分支。
+  if (resPath.length === 0) { 
+    return findPath(structData, structData[0][uniqueKey], valkey, uniqueKey, childrenKey);
+  }
   return {
     path: resPath,
     pathObj: resObj
@@ -44,6 +48,11 @@ export interface Struct {
   valkey: string;
   childrenKey: string;
 }
+
+/**
+ * @param defaultSelected 默认选择的选项可能不存在，此时会选择数据的第一项
+ * @param structData 可能为数组，还存在问题，待处理
+ */
 export interface Props {
   structData: Array<Object>;
   defaultSelected?: string;
@@ -106,8 +115,6 @@ export default function Tree({ structData, defaultSelected = "浙江省", onSele
 
   return <View onLayout={_onLayout} style={styles.treeWrapper}>{traverse(structData, 0)}</View>;
 }
-
-
 
 const styles = StyleSheet.create({
   treeWrapper: {

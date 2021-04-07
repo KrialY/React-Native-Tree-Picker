@@ -1,5 +1,7 @@
 # React-Native-Tree-Selector
 React Native多级选择器，支持任意层级。
+## 如何使用 How to use
+目前还处于开发迭代测试阶段，还不稳定。后续将提供npm包供安装。✨
 ## 基础组件
 ### Tree Picker
 #### Demo
@@ -29,7 +31,7 @@ export default function Example() {
 ````
 #### 效果
 
-![TreePicker](https://gitee.com/krialy/images/raw/master/source/20210406004106.gif)
+![TreePicker](https://gitee.com/krialy/images/raw/master/source/20210406112753.gif)
 
 #### API
 | 属性 | 说明 | 是否必传 | 默认值 |
@@ -63,7 +65,7 @@ export default function Example() {
 ````
 #### 效果
 
-![UnLinkTreePicker](https://gitee.com/krialy/images/raw/master/source/20210406004206.gif)
+![UnLinkTreePicker](https://gitee.com/krialy/images/raw/master/source/20210406112820.gif)
 
 #### API
 | 属性 | 说明 | 是否必传 | 默认值 |
@@ -95,7 +97,7 @@ export default function Example() {
 ````
 #### 效果
 
-![CountryPicker](https://gitee.com/krialy/images/raw/master/source/20210406003959.gif)
+![CountryPicker](https://gitee.com/krialy/images/raw/master/source/20210406112923.gif)
 
 #### API
 | 属性 | 说明 | 是否必传 | 默认值 |
@@ -133,7 +135,7 @@ export default function Example() {
 ````
 #### 效果
 
-![ModalCountryPicker](https://gitee.com/krialy/images/raw/master/source/20210406003816.gif)
+![ModalCountryPicker](https://gitee.com/krialy/images/raw/master/source/20210406112951.gif)
 
 #### API
 | 属性 | 说明 | 是否必传 | 默认值 |
