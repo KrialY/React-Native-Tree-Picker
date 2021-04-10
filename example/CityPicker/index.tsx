@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
-import { CityPicker } from '../../src/components'
+import { CityPicker } from '../../src/components';
 
 export default function Example() {
   const onSelected = (path: any) => {

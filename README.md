@@ -6,7 +6,7 @@ React Native多级选择器，支持任意层级。底层使用React Native官�
 | <img src="https://gitee.com/krialy/images/raw/master/source/20210407100943.png" width="150"> | <img src="https://gitee.com/krialy/images/raw/master/source/20210407101103.png" width="150"> | <img src="https://gitee.com/krialy/images/raw/master/source/20210407101138.png" width="300"> | <img src="https://gitee.com/krialy/images/raw/master/source/20210407101213.png" width="300"> |
 ## 如何使用 How to use
 目前还处于开发迭代测试阶段，目前只对安卓设备做了测试，还不稳定。后续将提供npm包供安装。✨
-## 基础组件
+## 基础组件 BaseComponent
 ### Tree Picker
 #### Demo
 [structData](https://github.com/KrialY/React-Native-Tree-Selector/blob/main/src/components/CountryPicker/countryData.js)
@@ -159,7 +159,7 @@ export default function Example() {
 
 #### API
 | 属性 | 说明 | 类型 | 是否必传 | 默认值 |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | columeOfNum | 一行展示多少个选择器 | number | 否 | 3 |
 | onSelected | 切换选项的回调函数，第一个参数返回当前选中的信息数组 | (Array<Object>) => void | 否 | 无 |
 | level | 最多渲染多少级的节点 | number | 否 | 无限制 |
