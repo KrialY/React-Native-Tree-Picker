@@ -1,27 +1,41 @@
-import React, { useState, useEffect, Fragment } from "react";
-import { View, StyleSheet } from "react-native";
-import TreeNode from "./TreeNode";
+import React, { useState, useEffect, Fragment } from 'react';
+import { View, StyleSheet } from 'react-native';
+import TreeNode from './TreeNode';
 
-const findPath = (structData: any, key: string, valkey: string, uniqueKey: string, childrenKey: string): any => {
+const findPath = (
+  structData: any,
+  key: string,
+  valkey: string,
+  uniqueKey: string,
+  childrenKey: string,
+): any => {
   let resPath: any = [],
     resObj: any = [];
 
   dfs(structData, [], [], key, false);
-  function dfs(structData: any, path: Array<string>, pathObj: Array<any>, key: string, isFind?: boolean) {
-    if (isFind || !structData || structData.length <= 0) return;
+  function dfs(
+    structData: any,
+    path: Array<string>,
+    pathObj: Array<any>,
+    key: string,
+    isFind?: boolean,
+  ) {
+    if (isFind || !structData || structData.length <= 0) {
+      return;
+    }
 
     for (let i = 0; i < structData.length; i++) {
       let node = structData[i];
       const mixKey = node[uniqueKey];
       path.push(mixKey);
-      pathObj.push({key: node[uniqueKey], val: node[valkey]});
+      pathObj.push({ key: node[uniqueKey], val: node[valkey] });
       if (mixKey === key) {
         isFind = true;
         let nodes = node[childrenKey];
         while (nodes && nodes.length > 0) {
           let firstNode = nodes[0];
           path.push(firstNode[uniqueKey]);
-          pathObj.push({key: firstNode[uniqueKey], val: firstNode[valkey]});
+          pathObj.push({ key: firstNode[uniqueKey], val: firstNode[valkey] });
           nodes = firstNode[childrenKey];
         }
         resPath = [...path];
@@ -34,13 +48,19 @@ const findPath = (structData: any, key: string, valkey: string, uniqueKey: strin
     }
   }
   // 如果整棵N叉树查找完成之后没有结果，则返回树的第一个分支。
-  if (resPath.length === 0) { 
-    return findPath(structData, structData[0][uniqueKey], valkey, uniqueKey, childrenKey);
+  if (resPath.length === 0) {
+    return findPath(
+      structData,
+      structData[0][uniqueKey],
+      valkey,
+      uniqueKey,
+      childrenKey,
+    );
   }
   return {
     path: resPath,
-    pathObj: resObj
-  }
+    pathObj: resObj,
+  };
 };
 
 export interface Struct {
@@ -62,18 +82,37 @@ export interface Props {
   level?: number;
 }
 
-export default function Tree({ structData, defaultSelected = "浙江省", onSelected, columeOfNum, struct, level }: Props) {
+export default function Tree({
+  structData,
+  defaultSelected = '浙江省',
+  onSelected,
+  columeOfNum,
+  struct,
+  level,
+}: Props) {
   const [selected, setSelected] = useState(defaultSelected);
   const [pWidth, setPWidth] = useState(0);
   const { valkey, uniqueKey, childrenKey } = struct;
-  const { path, pathObj }: any = findPath(structData, selected, valkey, uniqueKey, childrenKey);
-  
-  console.log("render");
+  const { path, pathObj }: any = findPath(
+    structData,
+    selected,
+    valkey,
+    uniqueKey,
+    childrenKey,
+  );
+
+  console.log('render');
   useEffect(() => {
     onSelected && onSelected(pathObj);
   }, [selected]);
   const traverse = (structData: any, dep: number) => {
-    if (!structData || structData.length <= 0 || (level !== undefined && dep >= level)) return;
+    if (
+      !structData ||
+      structData.length <= 0 ||
+      (level !== undefined && dep >= level)
+    ) {
+      return;
+    }
     const res = structData.map((item: any) => {
       let key: string = item[uniqueKey];
 
@@ -92,10 +131,10 @@ export default function Tree({ structData, defaultSelected = "浙江省", onSele
           valkey={valkey}
           uniqueKey={uniqueKey}
           lineItemNumber={columeOfNum}
-          onSelected={(val) => {
+          onSelected={val => {
             // 性能优化，减少render次数。选择父节点的时候，默认会渲染父元素下的第一个子元素，子元素初始化会调用onSelected事件
             // 从而反复调用setSelected。如果当前路径已经包括了需要选择的目标则停止渲染。
-            if(!path.includes(val)) {
+            if (!path.includes(val)) {
               setSelected(val);
             }
           }}
@@ -105,20 +144,24 @@ export default function Tree({ structData, defaultSelected = "浙江省", onSele
       </>
     );
   };
-  
+
   const _onLayout = (e: any) => {
-    const {width} = e.nativeEvent.layout;
-    if(pWidth <= 0) {
+    const { width } = e.nativeEvent.layout;
+    if (pWidth <= 0) {
       setPWidth(width);
     }
-  }
+  };
 
-  return <View onLayout={_onLayout} style={styles.treeWrapper}>{traverse(structData, 0)}</View>;
+  return (
+    <View onLayout={_onLayout} style={styles.treeWrapper}>
+      {traverse(structData, 0)}
+    </View>
+  );
 }
 
 const styles = StyleSheet.create({
   treeWrapper: {
-    flexDirection: "row",
-    flexWrap: 'wrap'
-  }
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+  },
 });
