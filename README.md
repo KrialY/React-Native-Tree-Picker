@@ -5,7 +5,8 @@ React Native多级选择器，支持任意层级。底层使用React Native官�
 | --- | ---  | --- | --- |
 | <img src="https://gitee.com/krialy/images/raw/master/source/20210407100943.png" width="150"> | <img src="https://gitee.com/krialy/images/raw/master/source/20210407101103.png" width="150"> | <img src="https://gitee.com/krialy/images/raw/master/source/20210407101138.png" width="300"> | <img src="https://gitee.com/krialy/images/raw/master/source/20210407101213.png" width="300"> |
 ## 如何使用 How to use
-目前还处于开发迭代测试阶段，目前只对安卓设备做了测试，还不稳定。后续将提供npm包供安装。✨
+npm install @react-native-picker/picker --save
+npm install rn-tree-picker --save
 ## 基础组件 BaseComponent
 ### Tree Picker
 #### Demo
