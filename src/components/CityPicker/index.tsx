@@ -5,7 +5,7 @@ import countryData from './countryData';
 
 const struct: Struct = {
   uniqueKey: 'name',
-  valkey: 'name',
+  valKey: 'name',
   childrenKey: 'children',
 };
 /**
@@ -62,7 +62,7 @@ let ModalCityPicker: any = (
 ) => {
   const [isShow, setShow] = useState(false);
   const [selected, setSelected] = useState(defaultSelected);
-  let tempSelected: Array<any> = [];
+  let tempSelected: Array<Array<any>> = [];
   const positionMap: any = {
     bottom: 'flex-end',
     center: 'center',
@@ -70,7 +70,7 @@ let ModalCityPicker: any = (
   };
   const onSelected = (path: Array<any>) => {
     console.log(path, 'modal path');
-    tempSelected = path;
+    tempSelected.push(path);
   };
 
   useImperativeHandle(ref, () => ({
@@ -81,13 +81,15 @@ let ModalCityPicker: any = (
 
   const confirm = () => {
     setShow(false);
-    setSelected(tempSelected[tempSelected.length - 1].key);
+    const last: any = tempSelected.pop();
+    setSelected(last[last.length - 1].key);
     onConfirm && onConfirm(tempSelected);
   };
 
   const cancel = () => {
     setShow(false);
-    setSelected(defaultSelected);
+    const first: any = tempSelected.shift();
+    setSelected(first[first.length - 1].key);
     onCancel && onCancel(tempSelected);
     console.log('cancel');
   };
