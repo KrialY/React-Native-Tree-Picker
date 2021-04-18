@@ -7,7 +7,7 @@ interface Props {
   onSelected: (val: string) => void;
   defaultSelected: string;
   lineItemNumber?: number;
-  valkey?: string;
+  valKey?: string;
   uniqueKey?: string;
 }
 export default function TreeNode({
@@ -16,7 +16,7 @@ export default function TreeNode({
   defaultSelected,
   lineItemNumber = 3,
   pWidth,
-  valkey,
+  valKey,
   uniqueKey,
 }: Props) {
   const [selectedValue, setSelectedValue] = useState(defaultSelected);
@@ -34,7 +34,7 @@ export default function TreeNode({
           }}>
           {structData.map((item: any) => {
             const key = item[uniqueKey as any] || item;
-            const val = item[valkey as any] || item;
+            const val = item[valKey as any] || item;
             return <Picker.Item key={key} label={val} value={key} />;
           })}
         </Picker>

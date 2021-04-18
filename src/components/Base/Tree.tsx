@@ -2,15 +2,19 @@ import React, { useState, useEffect, Fragment } from 'react';
 import { View, StyleSheet } from 'react-native';
 import TreeNode from './TreeNode';
 
+interface PathRes {
+  path: Array<string>;
+  pathObj: Array<object>;
+}
 const findPath = (
-  structData: any,
+  structData: Array<any>,
   key: string,
-  valkey: string,
+  valKey: string,
   uniqueKey: string,
   childrenKey: string,
-): any => {
-  let resPath: any = [],
-    resObj: any = [];
+): PathRes => {
+  let resPath: Array<string> = [],
+    resObj: Array<object> = [];
 
   dfs(structData, [], [], key, false);
   function dfs(
@@ -28,14 +32,14 @@ const findPath = (
       let node = structData[i];
       const mixKey = node[uniqueKey];
       path.push(mixKey);
-      pathObj.push({ key: node[uniqueKey], val: node[valkey] });
+      pathObj.push({ key: node[uniqueKey], val: node[valKey] });
       if (mixKey === key) {
         isFind = true;
         let nodes = node[childrenKey];
         while (nodes && nodes.length > 0) {
           let firstNode = nodes[0];
           path.push(firstNode[uniqueKey]);
-          pathObj.push({ key: firstNode[uniqueKey], val: firstNode[valkey] });
+          pathObj.push({ key: firstNode[uniqueKey], val: firstNode[valKey] });
           nodes = firstNode[childrenKey];
         }
         resPath = [...path];
@@ -52,7 +56,7 @@ const findPath = (
     return findPath(
       structData,
       structData[0][uniqueKey],
-      valkey,
+      valKey,
       uniqueKey,
       childrenKey,
     );
@@ -65,7 +69,7 @@ const findPath = (
 
 export interface Struct {
   uniqueKey: string;
-  valkey: string;
+  valKey: string;
   childrenKey: string;
 }
 
@@ -76,7 +80,7 @@ export interface Struct {
 export interface Props {
   structData: Array<Object>;
   defaultSelected?: string;
-  onSelected?: (path: Array<string>) => void;
+  onSelected?: (path: Array<any>) => void;
   columeOfNum?: number;
   struct: Struct;
   level?: number;
@@ -92,11 +96,11 @@ export default function Tree({
 }: Props) {
   const [selected, setSelected] = useState(defaultSelected);
   const [pWidth, setPWidth] = useState(0);
-  const { valkey, uniqueKey, childrenKey } = struct;
-  const { path, pathObj }: any = findPath(
+  const { valKey, uniqueKey, childrenKey } = struct;
+  const { path, pathObj }: PathRes = findPath(
     structData,
     selected,
-    valkey,
+    valKey,
     uniqueKey,
     childrenKey,
   );
@@ -128,7 +132,7 @@ export default function Tree({
           pWidth={pWidth}
           defaultSelected={path[dep]}
           key={dep}
-          valkey={valkey}
+          valKey={valKey}
           uniqueKey={uniqueKey}
           lineItemNumber={columeOfNum}
           onSelected={val => {
